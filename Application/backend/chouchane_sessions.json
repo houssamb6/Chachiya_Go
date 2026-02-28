@@ -1,0 +1,2983 @@
+{
+  "d422194c-2b18-4464-af32-e6113b9eda69": {
+    "session_id": "d422194c-2b18-4464-af32-e6113b9eda69",
+    "workflow": "chouchane",
+    "phase": "yasmine",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! Welcome! I'm Yasmine, your guide to discovering the wonders of Tunisia. I'm so excited to help you plan your perfect trip.\n\nTo get started, could you tell me a little about your ideal travel style? Are you dreaming of adventure, relaxing on a beautiful beach, diving deep into history and culture, exploring nature, or perhaps a mix of everything?"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "eb9b353e-e7b8-4106-8604-b8e33aec40dd": {
+    "session_id": "eb9b353e-e7b8-4106-8604-b8e33aec40dd",
+    "workflow": "chouchane",
+    "phase": "yasmine",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! I'm Yasmine, and I'm so excited to help you plan your Tunisian adventure. To start, what kind of experience are you hoping for? Are you dreaming of adventure, relaxing on a beach, diving deep into history and culture, exploring nature, or perhaps a bit of everything?"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "ccbb8947-0fe0-4256-8e78-d7d8e14b9611": {
+    "session_id": "ccbb8947-0fe0-4256-8e78-d7d8e14b9611",
+    "workflow": "chouchane",
+    "phase": "yasmine",
+    "yasmine_history": [],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "e0d96c00-d705-42ee-92a3-9f98470c1da0": {
+    "session_id": "e0d96c00-d705-42ee-92a3-9f98470c1da0",
+    "workflow": "chouchane",
+    "phase": "yasmine",
+    "yasmine_history": [],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "1c4a3405-862f-4ba6-ae81-7eeedea3afde": {
+    "session_id": "1c4a3405-862f-4ba6-ae81-7eeedea3afde",
+    "workflow": "chouchane",
+    "phase": "qa",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! I'm Yasmine, and I'm so excited to help you plan your perfect trip to Tunisia. To start, could you tell me a little about what kind of experience you're hoping for? Are you looking for adventure, relaxation on the beach, diving deep into history and culture, connecting with nature, or a bit of everything?"
+      },
+      {
+        "role": "user",
+        "text": "relaxing beach"
+      },
+      {
+        "role": "model",
+        "text": "Perfect! A relaxing beach escape sounds absolutely wonderful. Will you be traveling solo, with a partner, with family and kids, or with friends?"
+      },
+      {
+        "role": "user",
+        "text": "family"
+      },
+      {
+        "role": "model",
+        "text": "Lovely! Tunisia has some fantastic options for families looking for a relaxing beach holiday.\n\nAbout how long are you planning for your trip? A few days, a week, or perhaps even longer?"
+      },
+      {
+        "role": "user",
+        "text": "few days"
+      },
+      {
+        "role": "model",
+        "text": "A few days, got it. That's a nice little break!\n\nTo help me narrow down the best spots for your family, could you tell me a bit about your budget? Are you looking for something budget-friendly, mid-range, or more of a luxury experience?"
+      },
+      {
+        "role": "user",
+        "text": "history"
+      },
+      {
+        "role": "model",
+        "text": "Ah, history! That's wonderful – Tunisia is absolutely rich with incredible stories and ancient sites, even by the beach. It's fantastic that you want to include that for your family.\n\nJust one more little detail to help me tailor things perfectly: what kind of budget are you thinking for your trip? Are you leaning towards budget-friendly, something mid-range, or more of a luxury experience?"
+      },
+      {
+        "role": "user",
+        "text": "mid-range"
+      },
+      {
+        "role": "model",
+        "text": "Thank you for sharing all of that with me! A mid-range budget, a family, a few days, with a desire for both relaxing beaches and a touch of history – I have some perfect ideas for you.\n\nBased on everything you've told me, here are two wonderful places that I think your family would absolutely love in Tunisia:\n\n---\n Your Personalized Tunisia Itinerary\n\nBased on what you've shared, here are your 2 perfect picks:\n\n1. Djerba Island — South-East\n Why it's perfect for you: This beautiful island offers exactly the relaxing white sandy beaches your family is looking for, alongside a unique blend of history, from its ancient Jewish heritage to traditional Berber villages. It’s laid-back and very family-friendly, fitting your mid-range budget perfectly for a few days.\n Top things to do: Explore the famous El Ghriba Synagogue, wander through the bustling Houmt Souk market, discover traditional pottery in Guellala village, and simply relax on the stunning beach at Sidi Mahrez.\n Insider tip: Renting bicycles is a fantastic way to explore the island with your family – it's flat and very scenic! The best time to visit is April–June or September–October to avoid the summer heat and crowds.\n Menzel\n\n2. Kairouan — Central\n Why it's perfect for you: If your family wants to truly immerse yourselves in a different kind of history, Kairouan is Tunisia's spiritual heart and the fourth holiest city in Islam. It offers an incredibly authentic historical and cultural experience, with its ancient mosques and a medina that feels truly timeless and untouched by mass tourism. It fits your mid-range budget, though it doesn't have beaches.\n Top things to do: Marvel at the magnificent Great Mosque of Kairouan, visit the 9th-century Aghlabid Basins, explore the authentic carpet souks in the medina, and definitely try the famous local pastry, Makroudh.\n Insider tip: While non-Muslims can't enter the prayer hall, the courtyard of the Great Mosque is open, and the view from outside at sunset is absolutely breathtaking.\n Makroudh\n\n Suggested order: For a packed \"few days\" combining both, you could start with the profound historical experience in Kairouan, then head south by private transfer or domestic flight to Djerba for relaxation and unique island history. This would be a bit of a whirlwind but incredibly rewarding for a family seeking both experiences!\n\n---\n\nWhat do you think of these options? Do either of them particularly speak to you, or would you like to explore anything further? Which one speaks to you more — Djerba Island or Kairouan?"
+      },
+      {
+        "role": "user",
+        "text": "Kairouan"
+      },
+      {
+        "role": "model",
+        "text": "Ah, Kairouan! That's a wonderful choice for a family looking to dive deep into Tunisia's rich history and authentic culture. I'm so glad it resonates with you.\n\nThat's it — your personalized Tunisian adventure is ready! I'll be here with you every step of the way, so if you ever want to ask something, adjust your plan, or discover hidden gems, just call me and we'll make your journey even more unforgettable."
+      }
+    ],
+    "yasmine_prefs": {
+      "style": "mix",
+      "companions": "family",
+      "budget": "",
+      "duration_days": 4,
+      "interests": [
+        "history"
+      ]
+    },
+    "yasmine_recommendations_given": true,
+    "yasmine_recommended_places": [
+      "Djerba Island",
+      "Kairouan"
+    ],
+    "yasmine_chosen_place": "Kairouan",
+    "yasmine_partners_shown": true,
+    "destination": "Kairouan",
+    "question": "This city is famous for a diamond-shaped pastry filled with dates. What is it called?",
+    "hints": [
+      "Sweet and fried or baked.",
+      "Name starts with 'Mak...'.",
+      "A symbol of local tradition."
+    ],
+    "correct_answer": "Makroudh",
+    "hints_used": 2,
+    "quiz_score": 1,
+    "quiz_done": true,
+    "qa_history": [
+      {
+        "role": "user",
+        "text": "what the place i pick"
+      },
+      {
+        "role": "model",
+        "text": "That's a bit outside my expertise — I'm your Tunisia specialist inside Chouchane! Ask me anything about this amazing country."
+      },
+      {
+        "role": "user",
+        "text": "what is harissa"
+      },
+      {
+        "role": "model",
+        "text": "Ah, harissa! It's a vibrant and fiery chili paste, a true cornerstone of Tunisian cuisine! Made from sun-dried red peppers, garlic, olive oil, and aromatic spices like caraway and coriander, it's celebrated for its rich flavor and versatility. You'll find it served with nearly every meal, from couscous to sandwiches, adding that distinctive Tunisian kick. It's truly a symbol of our bold culinary heritage!"
+      }
+    ]
+  },
+  "76dd19b4-9e67-4242-b06a-a5e3bbbb9624": {
+    "session_id": "76dd19b4-9e67-4242-b06a-a5e3bbbb9624",
+    "workflow": "chouchane",
+    "phase": "yasmine",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan! I'm Yasmine, and I'm so excited to help you plan your Tunisian adventure.\n\nTo get started, could you tell me a little bit about what kind of travel experience you're hoping for? Are you dreaming of adventure, relaxing on a beautiful beach, diving deep into history and culture, exploring nature, or perhaps a bit of everything?"
+      },
+      {
+        "role": "user",
+        "text": "ddddd"
+      },
+      {
+        "role": "model",
+        "text": "No worries at all! Sometimes our fingers have a mind of their own.\n\nCould you tell me again, are you leaning more towards adventure, beach and relaxation, history and culture, nature, or perhaps a mix of different experiences for your trip to Tunisia?"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "e13606c5-ab8e-458f-a645-fbe6626a8a52": {
+    "session_id": "e13606c5-ab8e-458f-a645-fbe6626a8a52",
+    "workflow": "chouchane",
+    "phase": "yasmine",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! Welcome! I'm Yasmine, your guide to discovering the wonders of Tunisia. I'm so excited to help you plan your perfect trip.\n\nTo get started, could you tell me a little about your travel style? Are you looking for adventure, a relaxing beach getaway, a deep dive into history and culture, or perhaps something else?"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "c9fd608c-729d-4366-b8bc-c15d24997c87": {
+    "session_id": "c9fd608c-729d-4366-b8bc-c15d24997c87",
+    "workflow": "chouchane",
+    "phase": "yasmine",
+    "yasmine_history": [],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "3c7357b9-ed4f-459c-a129-ba19e1c06305": {
+    "session_id": "3c7357b9-ed4f-459c-a129-ba19e1c06305",
+    "workflow": "chouchane",
+    "phase": "yasmine",
+    "yasmine_history": [],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "74907fb0-071d-41a1-b014-f3739ec6011b": {
+    "session_id": "74907fb0-071d-41a1-b014-f3739ec6011b",
+    "workflow": "chouchane",
+    "phase": "yasmine",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! Welcome! I'm Yasmine, your guide to discovering the magic of Tunisia. I'm so excited to help you plan your perfect trip.\n\nTo get started, could you tell me a little bit about what kind of travel experience you're dreaming of? Are you looking for adventure, relaxation on the beach, diving deep into history and culture, connecting with nature, or a bit of everything?"
+      },
+      {
+        "role": "user",
+        "text": "hi"
+      },
+      {
+        "role": "model",
+        "text": "Marhba! Lovely to hear from you.\n\nSo, to help me tailor the best recommendations for you, what kind of travel experience are you hoping for in Tunisia? Are you leaning towards adventure, some relaxing beach time, exploring our rich history and culture, enjoying nature, or perhaps a mix of everything?"
+      },
+      {
+        "role": "user",
+        "text": "Beach and relaxation"
+      },
+      {
+        "role": "model",
+        "text": "Perfect! Beach and relaxation it is – Tunisia has some truly stunning coastlines and tranquil spots.\n\nNext, could you tell me who you'll be traveling with? Are you planning a solo adventure, a romantic getaway for a couple, a family trip with kids, or are you coming with friends?"
+      },
+      {
+        "role": "user",
+        "text": "yes*"
+      },
+      {
+        "role": "model",
+        "text": "Ah, \"yes\" to relaxing on the beach! Wonderful!\n\nAnd just to clarify about your travel companions, will you be traveling solo, as a couple, with family and kids, or with friends? Knowing this helps me find the perfect vibe for your relaxation."
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "b6ee2a19-ab06-435d-97a7-175957894fe8": {
+    "session_id": "b6ee2a19-ab06-435d-97a7-175957894fe8",
+    "workflow": "chouchane",
+    "phase": "yasmine",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ah, marhaba! So glad you're here. I'm Yasmine, and I'm thrilled to help you plan your perfect trip to my beautiful Tunisia.\n\nTo get started, could you tell me a little about what kind of experience you're hoping for? Are you dreaming of adventure, relaxing on a beach, exploring history, immersing yourself in nature, or perhaps a mix of everything?"
+      },
+      {
+        "role": "user",
+        "text": "Adventure & desert"
+      },
+      {
+        "role": "model",
+        "text": "Ah, adventure and the desert! That sounds absolutely fantastic – you're in for a treat in Tunisia.\n\nNext, could you tell me who you'll be traveling with? Are you planning a solo journey, a romantic getaway with a partner, a fun trip with friends, or a family adventure with kids?"
+      },
+      {
+        "role": "user",
+        "text": "solo"
+      },
+      {
+        "role": "model",
+        "text": "Wonderful! Solo travel can be incredibly rewarding, especially when exploring new landscapes like our desert.\n\nNow, how long are you thinking of staying in Tunisia? A few days, a week, or perhaps even longer?"
+      },
+      {
+        "role": "user",
+        "text": "few days"
+      },
+      {
+        "role": "model",
+        "text": "A few days, got it. Even a short trip can be incredibly rich here!\n\nTo help me tailor the best suggestions for your adventure, could you give me an idea of your budget level? Are you looking for something budget-friendly, mid-range comfort, or a more luxurious experience?"
+      },
+      {
+        "role": "user",
+        "text": "mid level"
+      },
+      {
+        "role": "model",
+        "text": "Mid-range, perfect! That gives us a good balance of comfort and authentic experiences.\n\nFinally, do you have any specific interests that come to mind for your trip? Perhaps photography, Star Wars locations, archaeology, hiking, or anything else that really excites you? Knowing this will help me fine-tune your desert adventure!"
+      },
+      {
+        "role": "user",
+        "text": "thats it"
+      },
+      {
+        "role": "model",
+        "text": "Okay, I think I have a wonderful picture of what you're looking for! Adventure, solo travel, a few days in the desert with a mid-range budget – this sounds like a truly memorable trip in the making.\n\n---\n Your Personalized Tunisia Itinerary\n\nBased on what you've shared, here are your 2 perfect picks:\n\n1. Sahara / Douz — South-West\n Why it's perfect for you: For a solo adventurer seeking the raw, authentic desert experience, Douz is the gateway to the real Sahara. You'll find plenty of mid-range options for camel treks and overnight camps that offer comfort without breaking the bank. It's the ultimate adventure.\n Top things to do: Experience a camel trek at sunset, try 4x4 dune bashing for an adrenaline rush, and definitely spend a night in a Bedouin camp to witness the incredible stargazing in total silence.\n Insider tip: Look for a small, family-run desert camp. They often offer a more intimate and genuine experience than the larger, more touristy options, and you'll wake up truly surrounded by sand dunes.\n Erg\n\n2. Tozeur & Chebika — South-West\n Why it's perfect for you: This region offers a different kind of desert adventure, blending stunning natural beauty with a touch of cinematic wonder. It's great for solo travelers who appreciate unique architecture, lush oases, and dramatic landscapes that are easy to explore.\n Top things to do: Visit the iconic Star Wars set at Ong Jemal, hike to the beautiful Chebika waterfall oasis, explore the dramatic Mides canyon, and wander through Tozeur's medina to admire its unique brickwork.\n Insider tip: When traveling between Tozeur and Douz, you'll cross the Chott el-Djerid salt lake. Try to cross it around noon; the heat creates incredible mirages that are surreal and perfect for photography.\n Seguia\n\n Suggested order: To fully immerse yourself, you could fly into Tozeur, spend a day or two exploring the oases and Star Wars sites, then travel across the Chott el-Djerid to Douz for your deeper Sahara desert experience.\n\n---\n\nWhat do you think of these options? Which one speaks to you more — Sahara / Douz or Tozeur & Chebika? I'm happy to dive deeper into either, or adjust if you had something else in mind!"
+      },
+      {
+        "role": "user",
+        "text": "thx"
+      },
+      {
+        "role": "model",
+        "text": "You are most welcome! I'm so glad I could help.\n\nThat's it — your personalized Tunisian adventure is ready! I'll be here with you every step of the way, so if you ever want to ask something, adjust your plan, or discover hidden gems, just call me and we'll make your journey even more unforgettable."
+      },
+      {
+        "role": "user",
+        "text": "lets go"
+      },
+      {
+        "role": "model",
+        "text": "That's it — your personalized Tunisian adventure is ready! I'll be here with you every step of the way, so if you ever want to ask something, adjust your plan, or discover hidden gems, just call me and we'll make your journey even more unforgettable."
+      },
+      {
+        "role": "user",
+        "text": "haya hennami"
+      },
+      {
+        "role": "model",
+        "text": "That's it — your personalized Tunisian adventure is ready! I'll be here with you every step of the way, so if you ever want to ask something, adjust your plan, or discover hidden gems, just call me and we'll make your journey even more unforgettable."
+      },
+      {
+        "role": "user",
+        "text": "lets go"
+      },
+      {
+        "role": "model",
+        "text": "That's it — your personalized Tunisian adventure is ready! I'll be here with you every step of the way, so if you ever want to ask something, adjust your plan, or discover hidden gems, just call me and we'll make your journey even more unforgettable."
+      }
+    ],
+    "yasmine_prefs": {
+      "style": "adventure",
+      "companions": "solo",
+      "budget": "mid-range",
+      "duration_days": 7,
+      "interests": [
+        "desert"
+      ]
+    },
+    "yasmine_recommendations_given": true,
+    "yasmine_recommended_places": [
+      "Sahara / Douz",
+      "Tozeur & Chebika"
+    ],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "2015aa62-e0ab-42a5-9e00-709d13177bcd": {
+    "session_id": "2015aa62-e0ab-42a5-9e00-709d13177bcd",
+    "workflow": "chouchane",
+    "phase": "yasmine",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! I'm Yasmine, and I'm so excited to help you plan your perfect trip to Tunisia. To get started, I'd love to hear a little about your travel style. Are you leaning more towards adventure, relaxing on the beach, diving into history and culture, exploring nature, or perhaps a mix of everything?"
+      },
+      {
+        "role": "user",
+        "text": "Culture & history"
+      },
+      {
+        "role": "model",
+        "text": "Wonderful! Tunisia is absolutely brimming with incredible history and culture, you've made an excellent choice.\n\nNext, could you tell me who you'll be travelling with? Are you planning a solo adventure, a romantic getaway for two, a family trip with kids, or perhaps exploring with friends?"
+      },
+      {
+        "role": "user",
+        "text": "solo"
+      },
+      {
+        "role": "model",
+        "text": "Fantastic! Solo travel in Tunisia offers a wonderful opportunity for deep immersion and personal discovery.\n\nNow, about how long are you thinking of staying? A quick weekend, a week or two, or something longer? No need for exact dates, just a general idea of the trip duration."
+      },
+      {
+        "role": "user",
+        "text": "week"
+      },
+      {
+        "role": "model",
+        "text": "A week is a great amount of time to truly experience some of our cultural gems!\n\nTo help me narrow down the best spots, could you give me an idea of your budget? Are you looking for something budget-friendly, more in the mid-range, or are you planning a luxury escape?"
+      },
+      {
+        "role": "user",
+        "text": "no friends"
+      },
+      {
+        "role": "model",
+        "text": "Ah, apologies! I think there might have been a small misunderstanding. When I asked about \"budget level,\" I meant how much you're looking to spend on things like accommodation, food, and activities.\n\nTo clarify, are you hoping for a budget-friendly trip, something mid-range, or are you looking for a more luxurious experience?"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "40d34d27-101b-4644-8969-dfb2c1730d60": {
+    "session_id": "40d34d27-101b-4644-8969-dfb2c1730d60",
+    "workflow": "chouchane",
+    "phase": "quiz",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan! I'm Yasmine, and I'm so excited to help you plan your Tunisian adventure. To get started, could you tell me a little about your ideal travel style? Are you looking for adventure, a relaxing beach getaway, diving deep into history and culture, exploring nature, or a bit of everything?"
+      },
+      {
+        "role": "user",
+        "text": "Food & local life"
+      },
+      {
+        "role": "model",
+        "text": "That's wonderful! Tunisia has an incredible culinary scene and vibrant local life, you're in for a treat.\n\nNext, who will you be traveling with? Are you planning a solo trip, a romantic getaway with a partner, a fun adventure with friends, or a family vacation with kids?"
+      },
+      {
+        "role": "user",
+        "text": "solo"
+      },
+      {
+        "role": "model",
+        "text": "Solo travel is fantastic for really immersing yourself in the local culture and discovering hidden food gems!\n\nNow, how long are you planning for this Tunisian escape? Are we talking a few days, a week, or perhaps even longer?"
+      },
+      {
+        "role": "user",
+        "text": "one week"
+      },
+      {
+        "role": "model",
+        "text": "A week is a great amount of time to get a real taste of Tunisia!\n\nLet's talk a little about your budget. Are you looking for something budget-friendly, a comfortable mid-range experience, or are you hoping to indulge in a bit of luxury during your trip?"
+      },
+      {
+        "role": "user",
+        "text": "mid budget"
+      },
+      {
+        "role": "model",
+        "text": "Perfect, a mid-range budget gives us lots of wonderful options for a comfortable and authentic experience. With your interest in food, local life, and solo travel for a week, I have two fantastic places in mind for you.\n\n---\n Your Personalized Tunisia Itinerary\n\nBased on what you've shared, here are your 2 perfect picks:\n\n1. Medina of Tunis — North / Tunis\n Why it's perfect for you: This vibrant, UNESCO-listed medieval city is the heart of Tunisian local life and a paradise for food lovers. As a solo traveler, you can immerse yourself in the sensory experience of the souks and truly feel the pulse of the city. It's a fantastic place to observe and engage with daily life.\n Top things to do: Explore the endless Souks of gold, spices, and perfumes, visit the magnificent Zitouna Mosque, discover the Dar Ben Abdallah museum, and definitely try delicious street food like fricassee and lablabi.\n Insider tip: To truly uncover the hidden gems and secret courtyards, consider hiring a local guide for a couple of hours – they can show you palaces behind anonymous doors you'd never find alone!\n Souk (سوق)\n\n2. Sidi Bou Said — North / Tunis\n Why it's perfect for you: This iconic blue-and-white village offers a more peaceful, artistic side of Tunisian local life, perfect for a solo traveler seeking charm and relaxation after the bustling Medina. You can enjoy the calm atmosphere, beautiful views, and experience the traditional café culture.\n Top things to do: Wander through the picturesque cobblestone alleys at sunset, enjoy a traditional mint tea at the famous Café des Nattes, visit the Ennejma Ezzahra palace museum, and take in the stunning sea views from the lighthouse.\n Insider tip: To avoid the crowds and truly soak in the tranquil beauty, go on a weekday morning – you'll feel like you have the village almost to yourself.\n Barsha jmil! (بارشا جميل)\n\n Suggested order: I recommend starting with the bustling Medina of Tunis to fully experience its energy and street food, then taking a relaxing half-day or full-day trip to Sidi Bou Said for a charming contrast and beautiful views. They are very close to each other!\n---\n\nWhat do you think of these suggestions? Which one speaks to you more — Medina of Tunis or Sidi Bou Said? I'm happy to dive deeper into either, or we can adjust if you like!"
+      },
+      {
+        "role": "user",
+        "text": "medina of tunis"
+      },
+      {
+        "role": "model",
+        "text": "Excellent choice! The Medina of Tunis is truly an unforgettable experience, especially with your interest in food and local life. You'll absolutely love getting lost in its history and vibrant atmosphere.\n\nThat's it — your personalized Tunisian adventure is ready! I'll be here with you every step of the way, so if you ever want to ask something, adjust your plan, or discover hidden gems, just call me and we'll make your journey even more unforgettable."
+      }
+    ],
+    "yasmine_prefs": {
+      "style": "culture",
+      "companions": "solo",
+      "budget": "mid-range",
+      "duration_days": 7,
+      "interests": [
+        "food",
+        "local life"
+      ]
+    },
+    "yasmine_recommendations_given": true,
+    "yasmine_recommended_places": [
+      "Sidi Bou Said",
+      "Medina of Tunis"
+    ],
+    "yasmine_chosen_place": "Medina of Tunis",
+    "yasmine_partners_shown": true,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "5c9fcb44-2b46-49e2-acfc-d05c9bfb7d57": {
+    "session_id": "5c9fcb44-2b46-49e2-acfc-d05c9bfb7d57",
+    "workflow": "chouchane",
+    "phase": "quiz",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan! Welcome, I'm Yasmine, your guide to discovering the magic of Tunisia. I'm so excited to help you plan your trip!\n\nTo start, what kind of experience are you hoping for? Are you dreaming of adventure, relaxing on a beach, diving deep into history, immersing yourself in nature, or perhaps a mix of everything?"
+      },
+      {
+        "role": "user",
+        "text": "night life"
+      },
+      {
+        "role": "model",
+        "text": "That's a fun one! So, nightlife is definitely on your radar.\n\nTo get a better feel for your overall trip, what's your general travel style? Are you looking for adventure, beach relaxation, history and culture, nature, or a bit of everything?"
+      },
+      {
+        "role": "user",
+        "text": "beach parties"
+      },
+      {
+        "role": "model",
+        "text": "Beach parties, I love the sound of that! It seems like a vibrant beach scene is important to you.\n\nWho will you be traveling with on this adventure? Are you planning a solo trip, a romantic getaway with a partner, a fun time with friends, or a family vacation with kids?"
+      },
+      {
+        "role": "user",
+        "text": "couple"
+      },
+      {
+        "role": "model",
+        "text": "Lovely, a romantic escape with some lively beach vibes! That sounds absolutely wonderful.\n\nHow long are you planning for your trip? A few days, a week, or maybe even longer?"
+      },
+      {
+        "role": "user",
+        "text": "1 day"
+      },
+      {
+        "role": "model",
+        "text": "One day, that's a quick but energetic visit! We'll make sure to pack it with the best of what you're looking for.\n\nAnd thinking about your budget, are you looking for something more budget-friendly, mid-range comfort, or a luxurious experience?"
+      },
+      {
+        "role": "user",
+        "text": "mid range"
+      },
+      {
+        "role": "model",
+        "text": "Alright, a mid-range, one-day trip for a couple, focused on lively beach parties and nightlife! I think I have just the places in mind for you.\n\n---\n Your Personalized Tunisia Itinerary\n\nBased on what you've shared, here are your 2 perfect picks:\n\n1. Sousse — Central / Coast\n Why it's perfect for you: Sousse is the place to be for nightlife and beach parties, especially during peak season. It truly comes alive after sunset with its vibrant energy, perfect for a couple looking for a lively escape. You'll find plenty of mid-range options for dining and entertainment.\n Top things to do: Enjoy sunset beach parties, explore the rooftop bars in the medina, and definitely head to Port El Kantaoui for some exciting clubbing and DJ nights.\n Insider tip: For a seamless night, start your evening with drinks at the marina, then grab a taxi to Port El Kantaoui where the main dancing scene is.\n Hammam (حمّام)\n\n2. Hammamet — North-East / Cap Bon\n Why it's perfect for you: Hammamet offers a fantastic blend of beautiful beaches and a lively, energetic atmosphere. While it's also great for families, its vibrant restaurant scene and options for evening entertainment make it a great choice for a couple seeking a fun beach experience with nightlife options.\n Top things to do: Stroll through the charming old medina, relax on the long sandy beaches, and explore the Yasmine Hammamet marina for dining and entertainment options.\n Insider tip: For a more authentic and less touristy experience, aim to stay and explore the original Hammamet town rather than the newer Yasmine Hammamet area.\n Brik (بريك)\n\n Suggested order: Since you only have one day, focusing on the nightlife aspect means you'll likely arrive in the afternoon. Both Sousse and Hammamet are excellent choices for a single-night experience. Sousse is perhaps more geared specifically towards the intense nightlife you described, while Hammamet offers a slightly more balanced \"lively beach town\" feel that transitions into evening fun.\n\nHow do these sound to you? We can dive deeper into either, or tweak things if you like!"
+      },
+      {
+        "role": "user",
+        "text": "sousse"
+      },
+      {
+        "role": "model",
+        "text": "Fantastic choice! Sousse is truly a gem for that energetic, lively beach and nightlife experience you're looking for as a couple. I'm sure you'll have an unforgettable time there.\n\nThat's it — your personalized Tunisian adventure is ready! I'll be here with you every step of the way, so if you ever want to ask something, adjust your plan, or discover hidden gems, just call me and we'll make your journey even more unforgettable."
+      }
+    ],
+    "yasmine_prefs": {
+      "style": "beach",
+      "companions": "couple",
+      "budget": "",
+      "duration_days": 1,
+      "interests": [
+        "nightlife",
+        "beach parties"
+      ]
+    },
+    "yasmine_recommendations_given": true,
+    "yasmine_recommended_places": [
+      "Hammamet",
+      "Sousse"
+    ],
+    "yasmine_chosen_place": "Sousse",
+    "yasmine_partners_shown": true,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "6aa9af5f-542a-4f5c-b219-07e5069d10b8": {
+    "session_id": "6aa9af5f-542a-4f5c-b219-07e5069d10b8",
+    "workflow": "chouchane",
+    "phase": "yasmine",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! Welcome! I'm Yasmine, your personal guide to all things Tunisia. I'm so excited to help you plan an amazing trip.\n\nTo start, could you tell me a little about your ideal travel style? Are you looking for adventure, pure relaxation on a beach, diving deep into history and culture, exploring nature, or maybe a mix of everything?"
+      },
+      {
+        "role": "user",
+        "text": "beaches"
+      },
+      {
+        "role": "model",
+        "text": "Wonderful! Tunisia has some truly stunning Mediterranean beaches, you're in for a treat.\n\nNext, who will be joining you on this adventure? Are you traveling solo, with a partner, bringing the whole family with kids, or coming with friends?"
+      },
+      {
+        "role": "user",
+        "text": "with my partner"
+      },
+      {
+        "role": "model",
+        "text": "How lovely! Tunisia is a fantastic destination for couples.\n\nAnd how long are you thinking of staying in our beautiful country? A few days, a week, or perhaps longer?"
+      },
+      {
+        "role": "user",
+        "text": "few days"
+      },
+      {
+        "role": "model",
+        "text": "A few days, perfect for a relaxing getaway!\n\nNow, to help me fine-tune the recommendations, could you tell me a bit about your budget level? Are you looking for something budget-friendly, a comfortable mid-range experience, or perhaps a luxurious escape?"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "a20f24c7-1511-4a88-8c6e-753e76110188": {
+    "session_id": "a20f24c7-1511-4a88-8c6e-753e76110188",
+    "workflow": "chouchane",
+    "phase": "yasmine",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! Welcome! I'm Yasmine, your guide to discovering the magic of Tunisia. I'm so excited to help you plan your perfect trip.\n\nTo get started, tell me a little bit about what kind of experience you're hoping for. Are you dreaming of adventure, relaxing on a beach, diving into history and culture, exploring nature, or maybe a bit of everything?"
+      },
+      {
+        "role": "user",
+        "text": "beaches"
+      },
+      {
+        "role": "model",
+        "text": "Wonderful! Tunisia has some truly beautiful coastlines.\n\nNow, who will you be traveling with? Are you planning a solo adventure, a romantic getaway for two, a fun trip with family and kids, or exploring with friends?"
+      },
+      {
+        "role": "user",
+        "text": "couple"
+      },
+      {
+        "role": "model",
+        "text": "A romantic beach escape for two, how lovely!\n\nTo help me tailor things even more, about how long are you thinking of staying in Tunisia? A few days, a week, or perhaps even longer?"
+      },
+      {
+        "role": "user",
+        "text": "few days"
+      },
+      {
+        "role": "model",
+        "text": "\"A few days\" is perfect for a relaxing getaway!\n\nNow, let's talk about your budget. Are you looking for something budget-friendly, a comfortable mid-range experience, or more of a luxury escape?"
+      },
+      {
+        "role": "user",
+        "text": "mid range"
+      },
+      {
+        "role": "model",
+        "text": "Mid-range, got it. That gives us a lot of great options!\n\nFinally, are there any specific interests or activities that really excite you? For example, are you keen on trying local food, perhaps some diving, photography, exploring local markets, or maybe just enjoying a leisurely pace? Anything that comes to mind!"
+      },
+      {
+        "role": "user",
+        "text": "night clubs"
+      },
+      {
+        "role": "model",
+        "text": "This is fantastic information, thank you! I have a really clear picture now of what you're looking for – a mid-range, few-day beach getaway for two, with some fun nightlife.\n\nBased on everything you've told me, here are a couple of wonderful places in Tunisia that I think you'll absolutely love:\n\n---\n Your Personalized Tunisia Itinerary\n\nBased on what you've shared, here are your 2 perfect picks:\n\n1. Hammamet — North-East / Cap Bon\n Why it's perfect for you: Hammamet is a fantastic choice for couples looking for a lively beach holiday with plenty of options for evenings out. It boasts beautiful sandy beaches perfect for relaxing during the day, and a vibrant restaurant scene and nightlife for when the sun goes down. The charming old medina offers a romantic atmosphere for strolls.\n Top things to do: Explore the historic old medina and its kasbah, enjoy the beaches, dine at one of the many lively restaurants, and experience the evening atmosphere around Yasmine Hammamet marina.\n Insider tip: For a more authentic experience with genuine local cafes and shops, try to stay in the old Hammamet area rather than the more modern Yasmine Hammamet. The medina here is truly special.\n Brik\n\n2. Djerba Island — South-East\n Why it's perfect for you: If you're looking for a slightly more laid-back but still engaging beach experience, Djerba is wonderful for couples. It has stunning white sandy beaches and a unique cultural mix. While it's more relaxed than Hammamet, you'll still find lovely spots for romantic dinners and evening walks by the sea. It's a great blend of relaxation and gentle exploration.\n Top things to do: Relax on the beautiful Sidi Mahrez beach, wander through the bustling Houmt Souk market for unique souvenirs, visit the unique Guellala pottery village, and enjoy fresh seafood.\n Insider tip: The island is quite flat, so renting a bicycle is a delightful and authentic way to explore the various villages and coastal paths at your own pace.\n Menzel\n\n Suggested order: As both are excellent for a short trip, you could consider flying directly to either. If you wanted a slightly more varied experience, you might start in Hammamet for the liveliness, and then if you had a bit more time, perhaps a domestic flight or longer journey to Djerba for a change of pace. However, for \"a few days\", picking one is ideal!\n\n---\nWhich one speaks to you more — Hammamet or Djerba Island?"
+      }
+    ],
+    "yasmine_prefs": {
+      "style": "beach",
+      "companions": "couple",
+      "budget": "mid-range",
+      "duration_days": 7,
+      "interests": []
+    },
+    "yasmine_recommendations_given": true,
+    "yasmine_recommended_places": [
+      "Djerba Island",
+      "Hammamet"
+    ],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "15fc288c-ddbe-4f86-b232-43fd56d2517d": {
+    "session_id": "15fc288c-ddbe-4f86-b232-43fd56d2517d",
+    "workflow": "chouchane",
+    "phase": "yasmine",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! Welcome! I'm Yasmine, your guide to discovering the wonders of Tunisia. I'm so excited to help you plan your perfect trip.\n\nTo get started, could you tell me a little bit about what kind of travel experience you're dreaming of? Are you looking for adventure, relaxing on a beach, diving deep into history and culture, exploring nature, or maybe a mix of everything?"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "035b9354-50a1-45b0-83e0-d9e4e7e9f635": {
+    "session_id": "035b9354-50a1-45b0-83e0-d9e4e7e9f635",
+    "workflow": "chouchane",
+    "phase": "yasmine",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan! I'm Yasmine, your guide to discovering the magic of Tunisia. I'm so excited to help you plan your perfect trip.\n\nTo get started, tell me a little bit about what kind of experience you're dreaming of. Are you looking for adventure, pure relaxation on the beach, diving deep into history and culture, connecting with nature, or a bit of everything?"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "22465c69-7d39-451b-b76d-9b59375dc86f": {
+    "session_id": "22465c69-7d39-451b-b76d-9b59375dc86f",
+    "workflow": "chouchane",
+    "phase": "yasmine",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! Welcome! I'm Yasmine, your guide to discovering the magic of Tunisia. I'm so excited to help you plan your perfect trip.\n\nTo get started, could you tell me a little about what kind of experience you're hoping for? Are you dreaming of adventure, relaxing on a beach, diving into history and culture, exploring nature, or perhaps a mix of everything?"
+      },
+      {
+        "role": "user",
+        "text": "hey chouchen i want night life"
+      },
+      {
+        "role": "model",
+        "text": "Ahlan! Great to know you're looking for vibrant nightlife! Tunisia definitely has some exciting spots for that.\n\nTo help me tailor things perfectly, could you tell me who you'll be traveling with? Are you going solo, with a partner, bringing the family with kids, or traveling with friends?"
+      },
+      {
+        "role": "user",
+        "text": "couple"
+      },
+      {
+        "role": "model",
+        "text": "Wonderful! A romantic trip with a lively vibe sounds lovely.\n\nHow long are you planning for your Tunisian adventure? Knowing if it's a few days, a week, or longer helps me suggest the best places to make the most of your time."
+      },
+      {
+        "role": "user",
+        "text": "sorry but i didnt understand you"
+      },
+      {
+        "role": "model",
+        "text": "Ah, apologies! I meant, how many days or weeks are you thinking of staying in Tunisia? For example, 5 days, 10 days, or perhaps two weeks?"
+      },
+      {
+        "role": "user",
+        "text": "ah ok its just few days"
+      },
+      {
+        "role": "model",
+        "text": "No worries at all, thanks for clarifying! \"A few days\" is perfect for a charming getaway.\n\nNow, to make sure I find the best fit for your budget, could you tell me what you're generally looking for? Are you thinking budget-friendly, mid-range, or something more on the luxury side?"
+      },
+      {
+        "role": "user",
+        "text": "its mid-range budget"
+      },
+      {
+        "role": "model",
+        "text": "Shukran! Mid-range budget for a couple's trip with a focus on nightlife for a few days – I've got a good picture now.\n\nI've got some wonderful ideas brewing for you. Let me quickly put together your personalized recommendations based on everything you've shared!\n\n---\n Your Personalized Tunisia Itinerary\n\nBased on what you've shared, here are your 2 perfect picks:\n\n1. Sidi Bou Said — North / Tunis\n Why it's perfect for you: As a couple looking for a romantic escape, Sidi Bou Said offers an incredibly charming backdrop with its iconic blue-and-white architecture and stunning sea views. While it's generally peaceful, you'll find lovely cafes and restaurants that offer a relaxed evening atmosphere, perfect for a romantic dinner or a quiet drink after a day of exploring. It's a truly picturesque place to make memories together.\n Top things to do: Stroll the alleys at sunset, enjoy mint tea at Café des Nattes, visit the Ennejma Ezzahra palace museum, and take in the incredible sea views from the lighthouse.\n Insider tip: Go on a weekday morning before the tourist buses arrive — you'll have the village almost to yourself, making for an even more intimate experience.\n Barsha jmil! (بارشا جميل)\n\n2. Medina of Tunis — North / Tunis\n Why it's perfect for you: For a couple seeking a vibrant and sensory experience with a touch of nightlife, the Medina of Tunis offers an immersive journey into history and culture during the day, and transforms into a lively hub in the evenings. You can explore the bustling souks, enjoy delicious street food, and then discover hidden gem restaurants and cafes that come alive after dark. It's an energetic contrast to the more serene Sidi Bou Said, giving you a taste of authentic Tunisian city life.\n Top things to do: Visit the majestic Zitouna Mosque, wander through the specialized Souks of gold, spices, and perfume, explore the Dar Ben Abdallah museum, and definitely try local street food like fricassee and lablabi.\n Insider tip: Hire a local guide for 2 hours — the hidden palaces behind anonymous doors are invisible without one, and they can show you some fantastic evening spots too.\n Souk (سوق)\n\n Suggested order: I'd recommend starting with the bustling Medina of Tunis to experience its energy and history, then moving to the tranquil and romantic Sidi Bou Said for a more relaxed and picturesque end to your trip. They are very close to each other, so combining them is very easy.\n---\n\nI hope these sound exciting! Which one speaks to you more — Sidi Bou Said or the Medina of Tunis? Or perhaps you have some follow-up questions for me?"
+      }
+    ],
+    "yasmine_prefs": {
+      "style": "mix",
+      "companions": "couple",
+      "budget": "",
+      "duration_days": 7,
+      "interests": [
+        "night life"
+      ]
+    },
+    "yasmine_recommendations_given": true,
+    "yasmine_recommended_places": [
+      "Sidi Bou Said",
+      "Medina of Tunis"
+    ],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "003bb59d-c2f8-462d-a95c-24c06ae38c3b": {
+    "session_id": "003bb59d-c2f8-462d-a95c-24c06ae38c3b",
+    "workflow": "chouchane",
+    "phase": "yasmine",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ah, marhaba! So glad you're here. I'm Yasmine, and I'm thrilled to help you plan your perfect trip to Tunisia.\n\nTo get started, could you tell me a little about your travel style? Are you looking for adventure, relaxation on the beach, diving deep into history and culture, exploring nature, or maybe a mix of everything?"
+      },
+      {
+        "role": "user",
+        "text": "i want night life and music"
+      },
+      {
+        "role": "model",
+        "text": "Ah, that's exciting! Nightlife and music in Tunisia can be fantastic.\n\nWho will you be traveling with on this trip? Are you flying solo, coming as a couple, bringing the whole family with kids, or traveling with friends?"
+      },
+      {
+        "role": "user",
+        "text": "couple"
+      },
+      {
+        "role": "model",
+        "text": "Lovely! Tunisia can be very romantic for couples, especially with a focus on vibrant evenings.\n\nHow long are you thinking of staying in Tunisia? A few days, a week, or perhaps even longer?"
+      },
+      {
+        "role": "user",
+        "text": "ill just stay 1 day"
+      },
+      {
+        "role": "model",
+        "text": "Oh, just one day? That's quite a quick visit for Tunisia, especially if you're looking to enjoy the nightlife and music scene, which usually kicks off in the evenings! Most travelers find they need at least a few days to really soak it all in, especially given the travel time.\n\nWould you be open to perhaps a weekend, or is it strictly one day for sure? Either way, let's keep planning!\n\nNext, could you tell me a bit about your budget level? Are you looking for something budget-friendly, mid-range, or a more luxurious experience?"
+      },
+      {
+        "role": "user",
+        "text": "sorry i didnt understand"
+      },
+      {
+        "role": "model",
+        "text": "Ah, no worries at all, my apologies for not being clearer!\n\nWhen I ask about your budget, I mean how much you're generally looking to spend during your trip. Are you aiming for:\n\n Budget-friendly: Where you're looking for the most economical options, like hostels or guesthouses, and eating at local, inexpensive places.\n Mid-range: A comfortable trip with nice hotels, good restaurants, and perhaps a few special experiences.\n Luxury: Where you're seeking high-end resorts, fine dining, and exclusive activities.\n\nWhich of these sounds most like what you have in mind for your visit?"
+      },
+      {
+        "role": "user",
+        "text": "aah ok its a mid range budget"
+      },
+      {
+        "role": "model",
+        "text": "Thank you for clarifying! A mid-range budget offers a wonderful balance for exploring Tunisia.\n\nOkay, my friend, with just one day, a mid-range budget, and traveling as a couple with an interest in music and nightlife, we have a fun challenge! Tunisia is a country that truly shines with more time, but we can definitely make one day special.\n\nBased on all you've shared, here are two spots that could offer you a taste of Tunisia's charm:\n\n---\n Your Personalized Tunisia Itinerary\n\nBased on what you've shared, here are your 2 perfect picks:\n\n1. Sidi Bou Said — North / Tunis\n Why it's perfect for you: This iconic blue-and-white village is incredibly romantic and has a unique, artistic vibe perfect for couples. For a single day, its close proximity to Tunis and the airport makes it highly practical. While it's more about atmospheric cafes and live music in traditional settings than pulsing nightclubs, it offers a beautiful setting for an evening stroll and a delicious mid-range dinner. If you're looking for more intense nightlife, Tunis city center is just a short taxi ride away.\n Top things to do: Stroll through the cobblestone alleys at sunset, enjoy mint tea at the famous Café des Nattes, visit the Ennejma Ezzahra palace museum, and take in the breathtaking sea views from the lighthouse.\n Insider tip: Go on a weekday morning if you can, to experience the village's peaceful charm before the crowds arrive. For a single day, focus on the afternoon and evening to truly soak in the ambiance.\n Barsha jmil!\n\n2. Tabarka & AinDrahem — North-West\n Why it's perfect for you: This region offers a wilder, more natural beauty, very different from the coastal towns. While it boasts a fantastic International Jazz Festival in July, and is known for its pristine coral reefs and dense cork-oak forests, it's quite a drive from the main airport (about 2.5-3 hours). For a single day, it would be a very rushed trip, leaving little time to truly enjoy the music scene or the natural beauty. It’s perhaps better suited for a future, longer visit focused on adventure and nature.\n Top things to do: Scuba diving on the coral reefs, exploring Les Aiguilles rock formations, a day trip to the charming mountain town of Ain Draham, and enjoying the Jazz Festival if you're there in July.\n Insider tip: The coral here is some of the most pristine in the Mediterranean. If you ever return for a longer stay, book with a local dive center for the best experience.\n Ballota\n\n Suggested order: Given your one-day trip, Sidi Bou Said is by far the most practical and enjoyable choice. You could arrive at Tunis-Carthage airport, head straight to Sidi Bou Said (a short ride), spend your afternoon exploring, enjoy a beautiful sunset and dinner, and then depart or head to Tunis for more nightlife before leaving. Tabarka is really best for a multi-day adventure.\n\n---\n\nSo, which one speaks to you more — Sidi Bou Said or Tabarka & AinDrahem?"
+      }
+    ],
+    "yasmine_prefs": {
+      "style": "mix",
+      "companions": "couple",
+      "budget": "mid-range",
+      "duration_days": 1,
+      "interests": [
+        "night life",
+        "music"
+      ]
+    },
+    "yasmine_recommendations_given": true,
+    "yasmine_recommended_places": [
+      "Tabarka & AinDrahem",
+      "Sidi Bou Said"
+    ],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "497c2ca4-1acd-49e6-a5c3-5129bce672ee": {
+    "session_id": "497c2ca4-1acd-49e6-a5c3-5129bce672ee",
+    "workflow": "chouchane",
+    "phase": "yasmine",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! Welcome! I'm Yasmine, your guide to discovering the wonders of Tunisia. I'm so excited to help you plan your perfect trip.\n\nTo start, tell me a little about what kind of experience you're dreaming of. Are you looking for adventure, lazy days on the beach, diving deep into history and culture, reconnecting with nature, or a bit of everything?"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "d4289e2b-5c53-466b-a81e-7a2d6d5ccc01": {
+    "session_id": "d4289e2b-5c53-466b-a81e-7a2d6d5ccc01",
+    "workflow": "chouchane",
+    "phase": "yasmine",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! Welcome! I'm Yasmine, and I'm so excited to help you plan your perfect trip to Tunisia. To get started, I'd love to know a little about your travel style. Are you leaning more towards adventure, beach relaxation, history and culture, nature, or a bit of a mix?"
+      },
+      {
+        "role": "user",
+        "text": "hey chouchen i want nightlife and music"
+      },
+      {
+        "role": "model",
+        "text": "Ahlan! That's a fantastic interest to have for Tunisia – we certainly have some lively spots!\n\nWho will you be traveling with on this exciting trip? Are you planning a solo adventure, a romantic getaway with a partner, a family vacation with kids, or a fun trip with friends?"
+      },
+      {
+        "role": "user",
+        "text": "im with my wife"
+      },
+      {
+        "role": "model",
+        "text": "Wonderful! A trip with your wife sounds lovely. Now, to help me narrow down the best recommendations for you, how long are you thinking of staying in Tunisia? Is it for a few days, a week, or perhaps even longer?"
+      },
+      {
+        "role": "user",
+        "text": "just 1 day"
+      },
+      {
+        "role": "model",
+        "text": "Ah, just one day! That's a very quick visit, so we'll need to make every moment count for that nightlife and music experience with your wife.\n\nBefore I suggest some spots, could you tell me a little about your budget level for this trip? Are you looking for something budget-friendly, mid-range, or perhaps a luxurious experience?"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "76c40396-31f1-4c48-97f9-d98a73b754f9": {
+    "session_id": "76c40396-31f1-4c48-97f9-d98a73b754f9",
+    "workflow": "chouchane",
+    "phase": "yasmine",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! Welcome! I'm Yasmine, and I'm so excited to help you plan your perfect trip to Tunisia. To start, what kind of experience are you hoping for? Are you dreaming of adventure, relaxing on the beach, diving into history and culture, exploring nature, or maybe a mix of everything?"
+      },
+      {
+        "role": "user",
+        "text": "hey chouchen i want nightlife bars and clubs"
+      },
+      {
+        "role": "model",
+        "text": "Ahlan! It's Yasmine, actually, but no worries! So, nightlife, bars, and clubs are definitely on your list – I love that! We have some vibrant spots.\n\nWho will you be traveling with on this exciting trip? Are you planning a solo adventure, a romantic getaway for two, a fun trip with friends, or a family vacation with kids?"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "d0c82a86-2199-4e87-839a-d1cd195753bd": {
+    "session_id": "d0c82a86-2199-4e87-839a-d1cd195753bd",
+    "workflow": "chouchane",
+    "phase": "quiz",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! Welcome! I'm Yasmine, and I'm so excited to help you plan your perfect trip to my beautiful Tunisia. To get started, I'd love to know what kind of experience you're hoping for. Are you dreaming of adventure, relaxing on the beach, diving deep into history and culture, exploring nature, or maybe a mix of everything?"
+      },
+      {
+        "role": "user",
+        "text": "hey chouchen iwant nighlife bars and clubs"
+      },
+      {
+        "role": "model",
+        "text": "Ahlan! It sounds like you're looking for a lively trip, and Tunisia definitely has some vibrant spots for nightlife!\n\nTo help me narrow down the perfect places for you, could you tell me who you'll be traveling with? Are you planning a solo adventure, a romantic getaway for two, a family trip with kids, or a fun escape with friends?"
+      },
+      {
+        "role": "user",
+        "text": "im with my wife"
+      },
+      {
+        "role": "model",
+        "text": "That's wonderful! A romantic trip with your wife sounds lovely.\n\nHow long are you planning to visit Tunisia? A few days, a week, or perhaps even longer? Knowing your trip duration helps me suggest places that fit your schedule best."
+      },
+      {
+        "role": "user",
+        "text": "just 1 day"
+      },
+      {
+        "role": "model",
+        "text": "Just one day, you say? That's a very quick visit, but we can certainly make the most of it for a memorable night out with your wife!\n\nTo make sure I suggest the best possible experience, could you tell me a little about your budget? Are you looking for something more budget-friendly, a comfortable mid-range experience, or are you hoping for a touch of luxury?"
+      },
+      {
+        "role": "user",
+        "text": "sorry i didnt understand can you clarify"
+      },
+      {
+        "role": "model",
+        "text": "My apologies, of course! Let me explain what I mean by budget.\n\n Budget-friendly means you're looking for options that are easy on the wallet, perhaps staying in guesthouses or enjoying local, inexpensive meals.\n Mid-range is comfortable and balanced – good quality hotels, nice restaurants, without being overly extravagant.\n Luxury means you're open to higher-end experiences, perhaps boutique hotels, fine dining, or exclusive venues.\n\nSo, which of these sounds most like what you and your wife are looking for for your one-day visit?"
+      },
+      {
+        "role": "user",
+        "text": "aa ok its mid range budget"
+      },
+      {
+        "role": "model",
+        "text": "Perfect, a mid-range budget gives us some lovely options for a fantastic night out! You've given me a great picture of what you're looking for.\n\nBased on your interest in nightlife, bars, and clubs for a couple on a mid-range budget, here are two vibrant places in Tunisia that I think you and your wife would absolutely love for your one-day visit:\n\n---\n Your Personalized Tunisia Itinerary\n\nBased on what you've shared, here are your 2 perfect picks:\n\n1. Sousse — Central / Coast\n Why it's perfect for you: If you and your wife are looking to dive straight into a high-energy evening, Sousse is a fantastic choice. It's a true nightlife hotspot, known for its vibrant scene with everything from chic rooftop bars to lively beach clubs and places with live music. It’s perfect for a couple wanting to experience Tunisia's exciting evenings.\n Top things to do: Enjoy drinks at a rooftop bar in the medina for a unique atmosphere, head to Port El Kantaoui for some dancing at the clubs, or find a local pub with live music.\n Insider tip: For a full experience, start your evening at the marina for some drinks as the sun sets, then move towards Port El Kantaoui where the dance clubs truly come alive. Taxis are very convenient for getting around.\n Hammam\n\n2. Hammamet — North-East / Cap Bon\n Why it's perfect for you: Hammamet offers a lively yet charming atmosphere, perfect for a couple seeking a mix of good food, a beautiful setting, and options for evening entertainment. While Sousse is more club-focused, Hammamet has a wonderful selection of lively restaurants and bars, especially around the Yasmine Hammamet marina, and its old medina provides a beautiful backdrop for an evening stroll.\n Top things to do: Explore the charming old medina and its kasbah, enjoy a romantic dinner at one of the many lively restaurants, or find a nice spot for drinks around the modern Yasmine Hammamet marina.\n Insider tip: To get a more authentic feel, try to stay in the older Hammamet area rather than Yasmine. The medina there is much more genuine, and you'll find wonderful local cafes and eateries. Don't miss trying a Brik!\n Brik\n\n Suggested order: Since you only have one day, I would recommend picking just one of these cities to truly immerse yourselves in its nightlife and atmosphere rather than trying to rush between them.\n\n---\n\nI hope these sound exciting to you! Which one speaks to you more — Sousse or Hammamet?"
+      },
+      {
+        "role": "user",
+        "text": "ok i chose sousse"
+      },
+      {
+        "role": "model",
+        "text": "That's a fantastic choice! Sousse has a truly buzzing atmosphere, and I'm sure you and your wife will have an unforgettable night exploring its vibrant scene.\n\nThat's it — your personalized Tunisian adventure is ready! I'll be here with you every step of the way, so if you ever want to ask something, adjust your plan, or discover hidden gems, just call me and we'll make your journey even more unforgettable."
+      }
+    ],
+    "yasmine_prefs": {
+      "style": "mix",
+      "companions": "couple",
+      "budget": "mid-range",
+      "duration_days": 1,
+      "interests": [
+        "nightlife",
+        "bars",
+        "clubs"
+      ]
+    },
+    "yasmine_recommendations_given": true,
+    "yasmine_recommended_places": [
+      "Sousse",
+      "Hammamet"
+    ],
+    "yasmine_chosen_place": "Sousse",
+    "yasmine_partners_shown": true,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "817699d8-d732-4e33-85f7-649335ee7195": {
+    "session_id": "817699d8-d732-4e33-85f7-649335ee7195",
+    "workflow": "chouchane",
+    "phase": "yasmine",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan! I'm Yasmine, and I'm so excited to help you plan your perfect trip to Tunisia. To get started, I'd love to know a little about your travel style. Are you looking for adventure, a relaxing beach getaway, a deep dive into history and culture, or perhaps something else entirely?"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "df4e707f-ab23-4b7e-8748-f5f35067031d": {
+    "session_id": "df4e707f-ab23-4b7e-8748-f5f35067031d",
+    "workflow": "chouchane",
+    "phase": "quiz",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! I'm Yasmine, your guide to discovering the wonders of Tunisia. I'm so excited to help you plan an unforgettable trip.\n\nTo get started, tell me a little bit about your ideal travel style. Are you looking for adventure, a relaxing beach getaway, a deep dive into history and culture, or something else entirely?"
+      },
+      {
+        "role": "user",
+        "text": "hey chouchen i want nighlife clubs and bars"
+      },
+      {
+        "role": "model",
+        "text": "Ahlan! It's Yasmine, actually, but no worries! So, nightlife, clubs, and bars – that's a fantastic interest to kick things off! Tunisia definitely has some vibrant spots.\n\nNow, who will you be traveling with? Are you planning a solo adventure, a romantic trip for a couple, a family vacation with kids, or a fun getaway with friends?"
+      },
+      {
+        "role": "user",
+        "text": "im with my wife"
+      },
+      {
+        "role": "model",
+        "text": "Wonderful! A romantic getaway with your wife, and you're keen on experiencing Tunisia's nightlife. That sounds like a lovely combination.\n\nTo help me narrow down the best spots for you, how long are you planning to visit Tunisia? A few days, a week, or perhaps even longer?"
+      },
+      {
+        "role": "user",
+        "text": "just for 1 day"
+      },
+      {
+        "role": "model",
+        "text": "Just one day, you say? That's quite a quick visit! It means we'll need to focus on something very specific to make the most of your time.\n\nTo help me refine our options, what's your preferred budget level for this trip? Are you looking for something budget-friendly, mid-range, or more on the luxury side?"
+      },
+      {
+        "role": "user",
+        "text": "i didnt understand you"
+      },
+      {
+        "role": "model",
+        "text": "My apologies, \"chouchen\"! Sometimes I get a little ahead of myself with travel terms.\n\nWhat I mean is, are you looking for options that are more affordable and budget-friendly, or are you hoping for something more comfortable and mid-range, or perhaps a more luxurious and high-end experience for your day trip?"
+      },
+      {
+        "role": "user",
+        "text": "ah ok mid range budget"
+      },
+      {
+        "role": "model",
+        "text": "Perfect, a mid-range budget for a day of nightlife with your wife! That gives me a clear picture of what you're looking for.\n\nI think I have everything I need to suggest some fantastic options for you. Let me share my top picks based on your interests.\n\n---\n Your Personalized Tunisia Itinerary\n\nBased on what you've shared, here are your 2 perfect picks:\n\n1. Sousse — Central / Coast\n Why it's perfect for you: Sousse is absolutely buzzing at night, ideal for a couple looking for vibrant clubs and bars. It offers a lively atmosphere with rooftop bars and beach clubs that are perfect for a memorable evening. Being a developed tourist area, you'll find plenty of mid-range options.\n Top things to do: Explore the rooftop bars in the medina for a unique experience, head to Port El Kantaoui for some dancing at the clubs, or enjoy live music at local pubs.\n Insider tip: Start your evening at the marina for some relaxed drinks, then easily grab a taxi to Port El Kantaoui if you want to dance the night away.\n Hammam\n\n2. Hammamet — North-East / Cap Bon\n Why it's perfect for you: Hammamet is another excellent choice for nightlife and is very couple-friendly. It's known for its lively restaurant scene and has many bars, especially around the Yasmine Hammamet marina area. It offers a good mix of lively spots and a charming old medina to explore before the evening begins, fitting a mid-range budget well.\n Top things to do: Wander through the charming old medina and kasbah, enjoy the evening ambiance at Yasmine Hammamet marina with its various restaurants and bars, and discover local spots.\n Insider tip: For a more authentic feel, try to spend time in the old Hammamet area rather than just Yasmine Hammamet – the medina there is genuine and lovely for a pre-party stroll.\n Brik\n\n Suggested order: Given you only have one day, picking one of these as your base is best. Sousse offers a slightly more intense clubbing experience, while Hammamet blends nightlife with a charming traditional feel.\n\nWhich one speaks to you more — Sousse or Hammamet?"
+      },
+      {
+        "role": "user",
+        "text": "ok i'll go with sousse"
+      },
+      {
+        "role": "model",
+        "text": "Excellent choice! Sousse is a fantastic pick for a vibrant night out with your wife. You're going to love the energetic atmosphere and variety of places to explore.\n\nThat's it — your personalized Tunisian adventure is ready! I'll be here with you every step of the way, so if you ever want to ask something, adjust your plan, or discover hidden gems, just call me and we'll make your journey even more unforgettable."
+      }
+    ],
+    "yasmine_prefs": {
+      "style": "mix",
+      "companions": "couple",
+      "budget": "mid-range",
+      "duration_days": 1,
+      "interests": [
+        "nightlife",
+        "clubs",
+        "bars"
+      ]
+    },
+    "yasmine_recommendations_given": true,
+    "yasmine_recommended_places": [
+      "Sousse",
+      "Hammamet"
+    ],
+    "yasmine_chosen_place": "Sousse",
+    "yasmine_partners_shown": true,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "27d742a2-49c5-4f6f-b30d-a6ee0bc376ea": {
+    "session_id": "27d742a2-49c5-4f6f-b30d-a6ee0bc376ea",
+    "workflow": "chouchane",
+    "phase": "yasmine",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Marhaba! I'm Yasmine, and I'm so excited to help you plan your Tunisian adventure. To get started, I'd love to know what kind of experience you're hoping for. Are you dreaming of an adventure-packed trip, a relaxing beach getaway, a deep dive into history and culture, or something else entirely?"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "2437c0dd-33b1-48cf-8c48-cc571ab6b901": {
+    "session_id": "2437c0dd-33b1-48cf-8c48-cc571ab6b901",
+    "workflow": "chouchane",
+    "phase": "quiz",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! Welcome, I'm Yasmine, and I'm so excited to help you plan your Tunisian adventure.\n\nTo start, what kind of experience are you hoping for? Are you dreaming of adventure, relaxing on a beautiful beach, exploring ancient history, immersing yourself in nature, or perhaps a bit of everything?"
+      },
+      {
+        "role": "user",
+        "text": "Beach & relaxation"
+      },
+      {
+        "role": "model",
+        "text": "That sounds wonderful! Tunisia has some truly stunning coastlines perfect for relaxation.\n\nNext, who will you be travelling with on this trip? Are you planning a solo escape, a romantic getaway for two, a family holiday with kids, or an adventure with friends?"
+      },
+      {
+        "role": "user",
+        "text": "solo"
+      },
+      {
+        "role": "model",
+        "text": "A solo beach and relaxation trip sounds like a perfect way to recharge!\n\nHow long are you thinking of staying in Tunisia? A quick escape for a few days, a week to really unwind, or perhaps even longer?"
+      },
+      {
+        "role": "user",
+        "text": "few days"
+      },
+      {
+        "role": "model",
+        "text": "A few days, perfect for a rejuvenating break!\n\nNow, to help me find the best spot for you, what kind of budget are you working with? Are you looking for something budget-friendly, a comfortable mid-range experience, or a touch of luxury?"
+      },
+      {
+        "role": "user",
+        "text": "mid range budget"
+      },
+      {
+        "role": "model",
+        "text": "Mid-range, got it! So, a solo trip for a few days, focused on beach and relaxation, with a comfortable mid-range budget. This gives me a great picture of what you're looking for.\n\nBased on all of this, I have a couple of wonderful places in mind that I think you'll absolutely love for a solo, relaxing escape.\n\n---\n Your Personalized Tunisia Itinerary\n\nBased on what you've shared, here are your 2 perfect picks:\n\n1. Djerba Island — South-East\n Why it's perfect for you: Djerba is known for its incredibly laid-back atmosphere, beautiful white sandy beaches, and warm sunshine – absolutely ideal for a solo relaxation trip. It's a place where you can truly unwind, explore at your own pace, and soak up a unique island culture without feeling rushed.\n Top things to do: Enjoy the beaches at Sidi Mahrez, wander through the charming Houmt Souk market, and visit the historic El Ghriba Synagogue.\n Insider tip: Rent a bicycle — the island is flat and cycling between villages is the best way to explore it authentically and discover hidden gems.\n Menzel\n\n2. Monastir Medina — Central / Monastir\n Why it's perfect for you: Monastir offers a wonderful blend of history and coastal tranquility. You can spend your mornings exploring the impressive Ribat and then dedicate your afternoons to relaxing on the nearby sandy beaches. It’s a very accessible city, great for a few days of calm exploration.\n Top things to do: Explore the Monastir Ribat and climb its towers for stunning views, relax on the sandy beach nearby, and stroll around the marina.\n Insider tip: Visit early morning to climb the Ribat towers before it gets crowded, then enjoy a quiet beach stroll afterwards.\n Ribat\n\n Suggested order: As you only have a few days, I would recommend picking just one of these to truly savor the experience without rushing. Both offer a fantastic solo, mid-range, beach and relaxation escape.\n---\n\nWhat do you think of these options? Which one speaks to you more — Djerba or Monastir? Or would you like to tweak anything?"
+      },
+      {
+        "role": "user",
+        "text": "monastir"
+      },
+      {
+        "role": "model",
+        "text": "Excellent choice! Monastir is a wonderful place for a relaxing solo trip, with its beautiful Ribat and lovely beaches. You'll have a fantastic time unwinding and exploring there.\n\nThat's it — your personalized Tunisian adventure is ready! I'll be here with you every step of the way, so if you ever want to ask something, adjust your plan, or discover hidden gems, just call me and we'll make your journey even more unforgettable."
+      }
+    ],
+    "yasmine_prefs": {
+      "style": "beach",
+      "companions": "solo",
+      "budget": "mid-range",
+      "duration_days": 7,
+      "interests": []
+    },
+    "yasmine_recommendations_given": true,
+    "yasmine_recommended_places": [
+      "Djerba Island",
+      "Monastir Medina"
+    ],
+    "yasmine_chosen_place": "Monastir Medina",
+    "yasmine_partners_shown": true,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "41bd7ac9-61fb-4bb8-a453-ce114916768e": {
+    "session_id": "41bd7ac9-61fb-4bb8-a453-ce114916768e",
+    "workflow": "chouchane",
+    "phase": "qa",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! Welcome! I'm Yasmine, and I'm so excited to help you plan your perfect trip to Tunisia.\n\nTo get started, tell me a little bit about what kind of experience you're hoping for. Are you dreaming of adventure, relaxing on the beach, diving into history and culture, exploring nature, or maybe a mix of everything?"
+      },
+      {
+        "role": "user",
+        "text": "Food & local life"
+      },
+      {
+        "role": "model",
+        "text": "That's wonderful! Food and local life are truly at the heart of the Tunisian experience. You're in for a real treat!\n\nNow, tell me, who are you traveling with? Are you planning a solo adventure, a romantic getaway with a partner, a family trip with kids, or exploring with friends?"
+      },
+      {
+        "role": "user",
+        "text": "solo"
+      },
+      {
+        "role": "model",
+        "text": "Fantastic! Solo travel in Tunisia offers so much freedom to explore at your own pace and really connect with the local scene.\n\nHow long are you thinking of staying in Tunisia? Are we talking about a few days, a week, or perhaps even longer?"
+      },
+      {
+        "role": "user",
+        "text": "few days"
+      },
+      {
+        "role": "model",
+        "text": "A few days, perfect for a focused immersion!\n\nTo help me narrow down the best spots for you, could you tell me a bit about your budget level? Are you looking for something budget-friendly, a comfortable mid-range experience, or more of a luxury escape?"
+      },
+      {
+        "role": "user",
+        "text": "mid range budget"
+      },
+      {
+        "role": "model",
+        "text": "A mid-range budget is perfect for experiencing so much of Tunisia's authentic charm without compromise! You'll find lovely places to stay and delicious food to savor.\n\nBased on everything you've shared about your interest in food and local life, traveling solo for a few days with a mid-range budget, I have two wonderful recommendations for you, both in the vibrant Tunis area:\n\n---\n Your Personalized Tunisia Itinerary\n\nBased on what you've shared, here are your 2 perfect picks:\n\n1. Medina of Tunis — North / Tunis\n Why it's perfect for you: This is the beating heart of Tunisian local life and an absolute paradise for food lovers. As a solo traveler, you'll love the freedom to wander through the labyrinthine souks, discovering hidden gems and interacting with friendly vendors. It's a sensory explosion of sights, sounds, and especially tastes, all easily enjoyed within a mid-range budget.\n Top things to do: Explore the grand Zitouna Mosque, get lost in the specialized souks for gold, spices, and perfumes, visit the beautiful Dar Ben Abdallah museum, and definitely try delicious street food like fricassee and lablabi.\n Insider tip: To truly uncover the Medina's secrets, especially the stunning hidden palaces, consider hiring a local guide for a couple of hours. It's a game-changer!\n Souk\n\n2. Sidi Bou Said — North / Tunis\n Why it's perfect for you: While the Medina is bustling, Sidi Bou Said offers a more serene, artistic slice of Tunisian local life. It's incredibly romantic and picturesque, perfect for solo contemplation and photography. You can immerse yourself in its calm, creative atmosphere, sip mint tea in historic cafes, and enjoy the stunning views, offering a beautiful contrast to the city's energy.\n Top things to do: Take a leisurely stroll through the iconic blue-and-white alleys, enjoy a traditional mint tea at the famous Café des Nattes, visit the elegant Ennejma Ezzahra palace museum, and soak in the breathtaking sea views from the lighthouse.\n Insider tip: Head there on a weekday morning. You'll beat the crowds and have the village almost to yourself to truly appreciate its peaceful beauty.\n Barsha jmil!\n\n Suggested order: I recommend starting your adventure in the vibrant Medina of Tunis to fully immerse yourself in the local hustle and bustle, then dedicate some time to the tranquil beauty of Sidi Bou Said for a more relaxed and artistic experience. They are close enough to combine easily.\n---\n\nWhich one speaks to you more — the vibrant Medina of Tunis or the artistic Sidi Bou Said?"
+      },
+      {
+        "role": "user",
+        "text": "medina of tunis"
+      },
+      {
+        "role": "model",
+        "text": "Excellent choice! The Medina of Tunis is truly an unforgettable experience, especially for someone who loves food and local life. You're going to have an incredible time exploring its unique charm.\n\nThat's it — your personalized Tunisian adventure is ready! I'll be here with you every step of the way, so if you ever want to ask something, adjust your plan, or discover hidden gems, just call me and we'll make your journey even more unforgettable."
+      }
+    ],
+    "yasmine_prefs": {
+      "style": "culture",
+      "companions": "solo",
+      "budget": "mid-range",
+      "duration_days": 7,
+      "interests": [
+        "food",
+        "local life"
+      ]
+    },
+    "yasmine_recommendations_given": true,
+    "yasmine_recommended_places": [
+      "Sidi Bou Said",
+      "Medina of Tunis"
+    ],
+    "yasmine_chosen_place": "Medina of Tunis",
+    "yasmine_partners_shown": true,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": true,
+    "qa_history": [
+      {
+        "role": "user",
+        "text": "I need a hint for the Harissa challenge at Polytechnique Sousse."
+      },
+      {
+        "role": "model",
+        "text": "That's a bit outside my expertise — I'm your Tunisia specialist inside Chouchane! Ask me anything about this amazing country."
+      },
+      {
+        "role": "user",
+        "text": "hint"
+      },
+      {
+        "role": "model",
+        "text": "That's a bit outside my expertise — I'm your Tunisia specialist inside Chouchane! Ask me anything about this amazing country."
+      },
+      {
+        "role": "user",
+        "text": "I need a hint for the Harissa challenge at Polytechnique Sousse."
+      },
+      {
+        "role": "model",
+        "text": "That's a bit outside my expertise — I'm your Tunisia specialist inside Chouchane! Ask me anything about this amazing country."
+      }
+    ]
+  },
+  "fcaa9271-84f2-4785-9b42-ed2348c3ee2f": {
+    "session_id": "fcaa9271-84f2-4785-9b42-ed2348c3ee2f",
+    "workflow": "chouchane",
+    "phase": "yasmine",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan! I'm Yasmine, your guide to discovering the magic of Tunisia. I'm so excited to help you plan your trip.\n\nTo get started, could you tell me a little about what kind of experience you're hoping for? Are you dreaming of adventure, relaxing on the beach, diving into history and culture, exploring nature, or perhaps a mix of everything?"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "fc8a2986-95fb-4599-b32f-1a4484764524": {
+    "session_id": "fc8a2986-95fb-4599-b32f-1a4484764524",
+    "workflow": "chouchane",
+    "phase": "quiz",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ah, marhaba! I'm Yasmine, and I'm so excited to help you plan your Tunisian adventure. To get started, could you tell me a little about what kind of experience you're hoping for? Are you dreaming of adventure, relaxing on a beach, diving into history and culture, exploring nature, or maybe a mix of everything?"
+      },
+      {
+        "role": "user",
+        "text": "Beach & relaxation"
+      },
+      {
+        "role": "model",
+        "text": "Lovely! Tunisia has some truly beautiful beaches perfect for relaxation.\n\nNext, could you tell me who you'll be traveling with? Are you planning a solo trip, a romantic getaway for two, a family vacation with kids, or an adventure with friends?"
+      },
+      {
+        "role": "user",
+        "text": "family"
+      },
+      {
+        "role": "model",
+        "text": "Wonderful! Tunisia is a fantastic destination for families.\n\nHow long are you thinking of staying in our beautiful country? A few days, a week, or perhaps even longer?"
+      },
+      {
+        "role": "user",
+        "text": "few days"
+      },
+      {
+        "role": "model",
+        "text": "A few days, perfect! That gives us enough time to find a really special spot for your family to unwind.\n\nNow, to help me narrow down the best options, could you give me an idea of your budget level? Are you looking for something budget-friendly, mid-range, or a more luxurious escape?"
+      },
+      {
+        "role": "user",
+        "text": "mid-range"
+      },
+      {
+        "role": "model",
+        "text": "Fantastic, mid-range is perfect for finding comfortable and enjoyable experiences here!\n\nBased on your desire for beach and relaxation, traveling with your family for a few days, and a mid-range budget, I have a couple of wonderful suggestions that I think your family will absolutely love.\n\n---\n Your Personalized Tunisia Itinerary\n\nBased on what you've shared, here are your 2 perfect picks:\n\n1. Hammamet — North-East / Cap Bon\n Why it's perfect for you: Hammamet is our most developed beach destination, absolutely ideal for families looking to relax by the sea. It has long, sandy beaches that are perfect for kids, and there are even water parks like Carthage Land for some extra fun. The town is lively and convenient, with plenty of mid-range options for stays and dining. It offers a great balance of relaxation and activities for everyone.\n Top things to do: Explore the charming old medina and its kasbah, enjoy the modern Yasmine Hammamet marina, have a blast at Carthage Land water park, or even take a day trip to a Cap Bon winery if the adults want a taste of local produce.\n Insider tip: For a more authentic experience away from the bustling tourist resorts, try to stay closer to the old Hammamet area rather than Yasmine Hammamet. The medina there is genuinely charming and easy to walk around.\n Brik (بريك)\n\n2. Djerba Island — South-East\n Why it's perfect for you: Djerba offers a more laid-back island vibe, perfect for unwinding. It boasts beautiful white sandy beaches where your family can relax and build sandcastles. The island is diverse, blending natural beauty with unique cultural sites like the famous El Ghriba Synagogue. It's generally more relaxed than the mainland, making it a peaceful retreat for a family getaway.\n Top things to do: Visit the historic El Ghriba Synagogue, explore the vibrant Houmt Souk market, discover traditional pottery in Guellala village, and, of course, spend plenty of time on the stunning beach at Sidi Mahrez.\n Insider tip: The island is quite flat, so renting bicycles can be a really fun and authentic way for your family to explore the various villages and enjoy the scenery at your own pace.\n Menzel (منزل)\n\n Suggested order: Since you only have a few days, either option would be a great standalone trip. Hammamet is closer to Tunis if you're flying into the capital, making it a very convenient choice for a shorter stay. Djerba requires an internal flight or a longer drive, but offers a distinct island escape.\n\nWhich one speaks to you more — Hammamet or Djerba Island?"
+      },
+      {
+        "role": "user",
+        "text": "hammamet"
+      },
+      {
+        "role": "model",
+        "text": "Excellent choice! Hammamet is truly wonderful for a family looking for beach relaxation, and I'm sure you'll create some beautiful memories there.\n\nThat's it — your personalized Tunisian adventure is ready! I'll be here with you every step of the way, so if you ever want to ask something, adjust your plan, or discover hidden gems, just call me and we'll make your journey even more unforgettable."
+      }
+    ],
+    "yasmine_prefs": {
+      "style": "beach",
+      "companions": "family",
+      "budget": "mid-range",
+      "duration_days": 7,
+      "interests": []
+    },
+    "yasmine_recommendations_given": true,
+    "yasmine_recommended_places": [
+      "Djerba Island",
+      "Hammamet"
+    ],
+    "yasmine_chosen_place": "Hammamet",
+    "yasmine_partners_shown": true,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "cf7ac60a-4afe-41d9-bd70-d5fa932a8f62": {
+    "session_id": "cf7ac60a-4afe-41d9-bd70-d5fa932a8f62",
+    "workflow": "chouchane",
+    "phase": "yasmine",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! Welcome! I'm Yasmine, and I'm so excited to help you plan your perfect trip to Tunisia.\n\nTo get started, tell me, what kind of experience are you hoping for? Are you dreaming of adventure, relaxing on a beautiful beach, diving into history and culture, exploring nature, or maybe a mix of everything?"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "c58faa5b-7549-401e-9d82-10956433231c": {
+    "session_id": "c58faa5b-7549-401e-9d82-10956433231c",
+    "workflow": "chouchane",
+    "phase": "yasmine",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! Welcome! I'm Yasmine, and I'm so excited to help you plan your Tunisian adventure.\n\nTo start, what kind of experience are you hoping for? Are you dreaming of adventure, relaxing on the beach, diving deep into history and culture, exploring nature, or maybe a mix of everything?"
+      },
+      {
+        "role": "user",
+        "text": "Adventure & desert"
+      },
+      {
+        "role": "model",
+        "text": "That's wonderful! Adventure and the magic of the desert sound like an amazing combination.\n\nWho will be joining you on this adventure? Are you traveling solo, with a partner, with family and kids, or with friends?"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "073eabdf-e7a3-4881-8754-e45b4483075c": {
+    "session_id": "073eabdf-e7a3-4881-8754-e45b4483075c",
+    "workflow": "chouchane",
+    "yasmine_done": false,
+    "quiz_done": false,
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan! I'm Yasmine, your guide to discovering the magic of Tunisia. I'm so excited to help you plan your trip!\n\nTo get started, could you tell me a little about your travel style? Are you dreaming of adventure, relaxing on a beach, diving deep into history and culture, exploring nature, or perhaps a mix of everything?"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_started": false,
+    "qa_history": []
+  },
+  "5c7e9b10-fda7-4ee8-883b-73622665bd77": {
+    "session_id": "5c7e9b10-fda7-4ee8-883b-73622665bd77",
+    "workflow": "chouchane",
+    "yasmine_done": false,
+    "quiz_done": false,
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan! I'm Yasmine, and I'm so excited to help you plan your Tunisian adventure. To get started, I'd love to know what kind of travel experience you're dreaming of. Are you looking for adventure, relaxation on the beach, a deep dive into history and culture, exploring nature, or maybe a bit of everything?"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_started": false,
+    "qa_history": []
+  },
+  "fc3001d0-730d-41a0-bf96-86cd4fd5ff01": {
+    "session_id": "fc3001d0-730d-41a0-bf96-86cd4fd5ff01",
+    "workflow": "chouchane",
+    "phase": "quiz",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! I'm Yasmine, and I'm so excited to help you plan your perfect trip to my beautiful Tunisia. To get started, what kind of experience are you hoping for? Are you dreaming of adventure, relaxing on a beach, diving deep into history and culture, exploring nature, or maybe a mix of everything?"
+      },
+      {
+        "role": "user",
+        "text": "Beach & relaxation"
+      },
+      {
+        "role": "model",
+        "text": "That sounds absolutely wonderful! Tunisia has some truly stunning coastlines.\n\nNext, could you tell me who you'll be traveling with? Are you planning a solo adventure, a romantic getaway for a couple, a fun trip with family and kids, or exploring with friends?"
+      },
+      {
+        "role": "user",
+        "text": "family"
+      },
+      {
+        "role": "model",
+        "text": "Perfect, a family trip to the beach! That's fantastic.\n\nNow, to help me narrow down the best spots for your family, how long are you thinking of staying in Tunisia? A few days, a week, or perhaps even longer?"
+      },
+      {
+        "role": "user",
+        "text": "a few days"
+      },
+      {
+        "role": "model",
+        "text": "A few days, got it! We'll make sure those days are packed with relaxation and enjoyment for the whole family.\n\nTo help me tailor things just right, what's your general budget level? Are you looking for something budget-friendly, a comfortable mid-range experience, or perhaps a luxurious getaway?"
+      },
+      {
+        "role": "user",
+        "text": "mid range"
+      },
+      {
+        "role": "model",
+        "text": "Excellent, mid-range is perfect for comfortable and enjoyable family experiences here.\n\nI think I have a good picture now to suggest some wonderful places for you! Please give me just a moment to put together your personalized recommendations."
+      },
+      {
+        "role": "user",
+        "text": "ok"
+      },
+      {
+        "role": "model",
+        "text": "Your Personalized Tunisia Itinerary\n\nBased on what you've shared, here are your 2 perfect picks for a mid-range, family-friendly beach and relaxation trip for a few days:\n\n1. Djerba Island — South-East\n Why it's perfect for you: Djerba offers a wonderfully laid-back atmosphere with stunning white sandy beaches, perfect for family relaxation. It has a unique cultural blend with Berber traditions and friendly locals, and it's generally very safe and easy to navigate with children. The island vibe is truly calming.\n Top things to do: Enjoy the beautiful beach at Sidi Mahrez, wander through the bustling Houmt Souk market for souvenirs, and perhaps visit the charming Guellala pottery village where you can see artisans at work.\n Insider tip: Renting bicycles is a fantastic way to explore the island with your family if your kids are old enough. The terrain is flat, making it a pleasant and authentic adventure.\n Menzel (منزل) — This Tunisian word means 'home'. Many people feel Djerba is like a second home, and you might too!\n\n2. Hammamet — North-East / Cap Bon\n Why it's perfect for you: Hammamet is a very popular and developed beach destination, especially great for families. It boasts long, beautiful beaches and a lively atmosphere. You'll find plenty of amenities and activities that cater specifically to families with kids, ensuring everyone has a great time.\n Top things to do: Relax on the sandy beaches, explore the charming old medina and its historic kasbah, and for a big hit with the kids, visit Carthage Land water park!\n Insider tip: To experience a more authentic side of Hammamet, try to stay in the older part of town rather than the newer Yasmine Hammamet area. The medina there is genuinely charming and wonderful for strolling.\n Brik (بريك) — This is Tunisia's famous crispy pastry, often filled with egg and tuna. Make sure to try it at a local medina cafe, it's a real treat!\n\n Suggested order: Since you only have a few days, I would recommend picking just one of these to fully enjoy without rushing. Both are fantastic for families seeking beach and relaxation.\n\nWhich one speaks to you more — Djerba Island or Hammamet?"
+      }
+    ],
+    "yasmine_prefs": {
+      "style": "beach",
+      "companions": "family",
+      "budget": "mid-range",
+      "duration_days": 7,
+      "interests": []
+    },
+    "yasmine_recommendations_given": true,
+    "yasmine_recommended_places": [
+      "Djerba Island",
+      "Hammamet"
+    ],
+    "yasmine_chosen_place": "Djerba Island",
+    "yasmine_partners_shown": true,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  },
+  "f0bb17a8-7d6c-4d4d-91f8-c8d6e52083d5": {
+    "session_id": "f0bb17a8-7d6c-4d4d-91f8-c8d6e52083d5",
+    "workflow": "chouchane",
+    "yasmine_done": false,
+    "quiz_done": false,
+    "quiz_started": false,
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! I'm Yasmine, and I'm so excited to help you plan your perfect trip to my beautiful Tunisia. To get us started, what kind of experience are you hoping for on this trip? Are you dreaming of adventure, relaxing on a beach, diving into history, exploring nature, or maybe a little bit of everything?"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "qa_history": []
+  },
+  "b929374a-440f-44c1-9ed6-44868600f968": {
+    "session_id": "b929374a-440f-44c1-9ed6-44868600f968",
+    "workflow": "chouchane",
+    "yasmine_done": false,
+    "quiz_done": false,
+    "quiz_started": false,
+    "yasmine_history": [],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "qa_history": []
+  },
+  "12c0d223-c24f-4100-a223-d13a6dbf12d2": {
+    "session_id": "12c0d223-c24f-4100-a223-d13a6dbf12d2",
+    "workflow": "chouchane",
+    "yasmine_done": true,
+    "quiz_done": false,
+    "quiz_started": false,
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! Welcome! I'm Yasmine, your guide to discovering the magic of Tunisia. I'm so excited to help you plan your perfect trip.\n\nTo get started, could you tell me a little about what kind of experience you're hoping for? Are you dreaming of adventure, relaxing on the beach, diving deep into history and culture, exploring nature, or maybe a mix of everything?"
+      },
+      {
+        "role": "user",
+        "text": "Beach & relaxation"
+      },
+      {
+        "role": "model",
+        "text": "Perfect! Beach and relaxation sound absolutely wonderful. Tunisia has some stunning coastlines and tranquil spots.\n\nNext, who will you be traveling with? Are you planning a solo escape, a romantic getaway for two, a fun family holiday with kids, or an adventure with friends?"
+      },
+      {
+        "role": "user",
+        "text": "family"
+      },
+      {
+        "role": "model",
+        "text": "Wonderful! Tunisia is fantastic for families, with plenty of activities and safe, beautiful beaches for everyone to enjoy.\n\nTo help me narrow down the best spots for your family, how long are you thinking of staying? A few days, a week, or perhaps even longer?"
+      },
+      {
+        "role": "user",
+        "text": "a few days"
+      },
+      {
+        "role": "model",
+        "text": "A few days is perfect for a relaxing family escape! We can certainly find a lovely spot for you to unwind and enjoy the sun and sea.\n\nBefore I give you some personalized suggestions, how would you describe your ideal budget for this trip? Are you looking for something budget-friendly, a comfortable mid-range experience, or a luxurious treat for the family?"
+      },
+      {
+        "role": "user",
+        "text": "mid-range"
+      },
+      {
+        "role": "model",
+        "text": "Thank you for sharing all those details! A mid-range, family-friendly beach escape for a few days sounds absolutely delightful.\n\nBased on everything you've told me, I have two wonderful suggestions that I think your family will truly love.\n\n---\n Your Personalized Tunisia Itinerary\n\nBased on what you've shared, here are your 2 perfect picks:\n\n1. Hammamet — North-East / Cap Bon\n Why it's perfect for you: Hammamet is incredibly family-friendly and offers a lively atmosphere with beautiful, long sandy beaches perfect for relaxation. With its water parks and a charming old medina, there's plenty to keep everyone entertained, from little ones to adults. It's also very convenient for a shorter trip.\n Top things to do: Explore the historic old medina and kasbah, enjoy the modern Yasmine Hammamet marina, have a fun day out at Carthage Land water park, or simply relax on the gorgeous beaches.\n Insider tip: For a more authentic experience, I'd suggest staying in the old Hammamet area rather than Yasmine Hammamet. The medina there is genuinely charming and easy to walk around.\n Brik (بريك)\n\n2. Djerba Island — South-East\n Why it's perfect for you: If you're looking for a more laid-back and culturally rich beach experience, Djerba is fantastic. It offers a mosaic of white sandy beaches and a calm atmosphere, making it ideal for families seeking relaxation with a touch of local charm and history. It truly feels like a second home.\n Top things to do: Visit the ancient El Ghriba Synagogue, wander through the bustling Houmt Souk market, explore the traditional Guellala pottery village, and unwind on the beautiful Sidi Mahrez beach.\n Insider tip: The island is quite flat, so renting bicycles is a wonderful way for the family to explore the villages and hidden corners authentically and at your own pace.\n Menzel (منزل)\n\n Suggested order: As you only have a few days, I would recommend picking just one of these to truly savor the experience without feeling rushed. Both offer distinct but equally enjoyable family beach holidays.\n\nWhich one speaks to you more — Hammamet or Djerba? And do you have any other questions, or perhaps want to adjust anything?"
+      },
+      {
+        "role": "user",
+        "text": "hammamet"
+      },
+      {
+        "role": "model",
+        "text": "Excellent choice! Hammamet is a wonderful place for a family-friendly beach holiday, with its lively atmosphere and beautiful coastlines. I'm sure your family will have a fantastic time there.\n\nThat's it — your personalized Tunisian adventure is ready! I'll be here with you every step of the way, so if you ever want to ask something, adjust your plan, or discover hidden gems, just call me and we'll make your journey even more unforgettable."
+      }
+    ],
+    "yasmine_prefs": {
+      "style": "beach",
+      "companions": "family",
+      "budget": "mid-range",
+      "duration_days": 7,
+      "interests": []
+    },
+    "yasmine_recommendations_given": true,
+    "yasmine_recommended_places": [
+      "Djerba Island",
+      "Hammamet"
+    ],
+    "yasmine_chosen_place": "Hammamet",
+    "yasmine_partners_shown": true,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "qa_history": [
+      {
+        "role": "user",
+        "text": "I need a hint for the Harissa challenge at Polytechnique Sousse."
+      },
+      {
+        "role": "model",
+        "text": "Ah, the Harissa challenge at Polytechnique Sousse! Harissa is indeed one of Tunisia's most iconic and fiery flavors, and Sousse is a beautiful coastal city. While I'm your Tunisia specialist for travel, culture, and all the wonders of this amazing country, I don't have specific details or hints for university challenges. Ask me anything about exploring Tunisia's rich history, vibrant markets, or delicious cuisine!"
+      }
+    ]
+  },
+  "69d1d204-b297-4de1-b19e-bca5c93fa04f": {
+    "session_id": "69d1d204-b297-4de1-b19e-bca5c93fa04f",
+    "workflow": "chouchane",
+    "yasmine_done": true,
+    "quiz_done": false,
+    "quiz_started": false,
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan! I'm Yasmine, and I'm so excited to help you plan your perfect trip to Tunisia. To get started, I'd love to know a bit about what kind of experience you're hoping for. Are you dreaming of adventure, relaxing on a beautiful beach, diving deep into history and culture, exploring nature, or maybe a bit of everything?"
+      },
+      {
+        "role": "user",
+        "text": "Beach & relaxation"
+      },
+      {
+        "role": "model",
+        "text": "Wonderful! Beach and relaxation sound absolutely lovely. Tunisia has some truly stunning coastlines.\n\nNext, could you tell me who you'll be traveling with? Are you planning a solo adventure, a romantic getaway with a partner, a fun family trip with kids, or exploring with friends?"
+      },
+      {
+        "role": "user",
+        "text": "family"
+      },
+      {
+        "role": "model",
+        "text": "Perfect, a family trip! That's fantastic. Tunisia is very family-friendly.\n\nHow long are you planning for your trip? Is it a quick getaway for a few days, a week-long escape, or perhaps even longer?"
+      },
+      {
+        "role": "user",
+        "text": "few days"
+      },
+      {
+        "role": "model",
+        "text": "A few days, got it. That helps us focus on places that are easy to get to and offer a lot within a shorter timeframe.\n\nNow, let's talk about your budget. Are you looking for something budget-friendly, a comfortable mid-range experience, or more of a luxurious escape for your family?"
+      },
+      {
+        "role": "user",
+        "text": "mid-range"
+      },
+      {
+        "role": "model",
+        "text": "Thank you for sharing that! A mid-range budget gives us lots of wonderful options here in Tunisia.\n\nBased on everything you've told me – a family trip for a few days, looking for beach and relaxation on a mid-range budget – I have two fantastic suggestions for you. Both are known for their beautiful coasts and are great for families.\n\n---\n Your Personalized Tunisia Itinerary\n\nBased on what you've shared, here are your 2 perfect picks:\n\n1. Hammamet — North-East / Cap Bon\n Why it's perfect for you: Hammamet is a lively and very family-friendly destination, perfect for a few days of relaxation. You'll find long, sandy beaches and plenty of activities that kids absolutely love, including fun water parks. It's also quite convenient to reach.\n Top things to do: Enjoy the beautiful beaches, explore the charming old medina and its kasbah, visit the Yasmine Hammamet marina, and have a blast at Carthage Land water park with the kids.\n Insider tip: For a more authentic feel and easier access to local life, try to stay in the old Hammamet area rather than the more modern Yasmine Hammamet. The medina there is genuinely lovely to wander through.\n Brik (بريك)\n\n2. Djerba Island — South-East\n Why it's perfect for you: Djerba offers a wonderfully laid-back and sunny escape, ideal for relaxation. It has beautiful white sandy beaches and a unique cultural mix that's interesting for families to explore. It feels like a true island getaway.\n Top things to do: Relax on Sidi Mahrez beach, wander through the bustling Houmt Souk market, discover the ancient El Ghriba Synagogue, and visit the traditional pottery village of Guellala.\n Insider tip: The island is quite flat, so renting bicycles is a fantastic way to explore the different villages and coastal paths authentically with your family. The best season to visit is April to June or September to October to avoid the intense summer heat and crowds.\n Menzel (منزل)\n\n Suggested order: If you choose Hammamet, it's very accessible, often just a short transfer from Tunis airport. Djerba requires a bit more travel to get there, but once you're on the island, everything is very relaxed. For a few days, Hammamet might be slightly more straightforward if you're flying into Tunis.\n\nWhich one speaks to you more — Hammamet or Djerba Island?"
+      },
+      {
+        "role": "user",
+        "text": "hammamet"
+      },
+      {
+        "role": "model",
+        "text": "Excellent choice! Hammamet is a fantastic option for a family looking for beach and relaxation, especially for a few days. You'll love the lively atmosphere and beautiful coast.\n\nThat's it — your personalized Tunisian adventure is ready! I'll be here with you every step of the way, so if you ever want to ask something, adjust your plan, or discover hidden gems, just call me and we'll make your journey even more unforgettable."
+      }
+    ],
+    "yasmine_prefs": {
+      "style": "beach",
+      "companions": "family",
+      "budget": "mid-range",
+      "duration_days": 7,
+      "interests": []
+    },
+    "yasmine_recommendations_given": true,
+    "yasmine_recommended_places": [
+      "Djerba Island",
+      "Hammamet"
+    ],
+    "yasmine_chosen_place": "Hammamet",
+    "yasmine_partners_shown": true,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "qa_history": [
+      {
+        "role": "user",
+        "text": "I need a hint for the Harissa challenge at Polytechnique Sousse."
+      },
+      {
+        "role": "model",
+        "text": "Ah, the Harissa challenge! To truly understand Harissa, think beyond just its heat. Consider the delicate balance of spices like caraway and coriander, the essential olive oil, and how these ingredients work together to create that iconic Tunisian flavor. Perhaps the secret lies in appreciating its traditional preparation and the harmony of its simple yet powerful components."
+      }
+    ]
+  },
+  "3fc06370-a5d5-455e-9e05-04210451756a": {
+    "session_id": "3fc06370-a5d5-455e-9e05-04210451756a",
+    "workflow": "chouchane",
+    "yasmine_done": false,
+    "quiz_done": false,
+    "quiz_started": false,
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan! I'm Yasmine, your guide to discovering the beauty of Tunisia. I'm so excited to help you plan your trip!\n\nTo get started, could you tell me a little about what kind of experience you're hoping for? Are you dreaming of adventure, relaxing on a beach, diving into history and culture, exploring nature, or perhaps a mix of everything?"
+      },
+      {
+        "role": "user",
+        "text": "Beach and relaxation"
+      },
+      {
+        "role": "model",
+        "text": "Wonderful choice! Tunisia has some truly stunning beaches perfect for relaxation.\n\nWho will you be traveling with on this lovely escape? Are you planning a solo trip, a romantic getaway with a partner, a family vacation with kids, or an adventure with friends?"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "qa_history": []
+  },
+  "297126a9-2d6c-446c-a379-de7be0670324": {
+    "session_id": "297126a9-2d6c-446c-a379-de7be0670324",
+    "workflow": "chouchane",
+    "yasmine_done": false,
+    "quiz_done": false,
+    "quiz_started": false,
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan! I'm Yasmine, and I'm so excited to help you plan your Tunisian adventure.\n\nTo get started, I'd love to know what kind of experience you're hoping for. Are you dreaming of adventure, relaxing on a beautiful beach, diving into history and culture, exploring nature, or perhaps a mix of everything?"
+      },
+      {
+        "role": "user",
+        "text": "Adventure & desert"
+      },
+      {
+        "role": "model",
+        "text": "That sounds absolutely thrilling! Tunisia's desert offers some truly unforgettable adventures.\n\nNow, who will be joining you on this exciting journey? Are you traveling solo, with a partner, bringing the whole family with kids, or coming with a group of friends?"
+      },
+      {
+        "role": "user",
+        "text": "kids"
+      },
+      {
+        "role": "model",
+        "text": "Wonderful! Traveling with kids in Tunisia can be so much fun, especially with all the exciting things to explore.\n\nTo help me tailor the perfect trip for your family, could you tell me how long you're planning to stay? Are we thinking a few days, a week, or perhaps even longer?"
+      },
+      {
+        "role": "user",
+        "text": "few days"
+      },
+      {
+        "role": "model",
+        "text": "A few days, got it! We can certainly pack some amazing family adventures into that time, especially with the desert in mind.\n\nThat gives me a great picture of what you're looking for. Let me just check something quickly, and I'll be right back with some wonderful recommendations for you!"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "qa_history": []
+  },
+  "db263ada-e46f-44d5-a560-0dd392caee85": {
+    "session_id": "db263ada-e46f-44d5-a560-0dd392caee85",
+    "workflow": "chouchane",
+    "yasmine_done": true,
+    "quiz_done": false,
+    "quiz_started": false,
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! I'm Yasmine, and I'm so excited to help you plan your perfect trip to Tunisia. To get started, I'd love to know what kind of adventure you're dreaming of. Are you leaning more towards thrilling adventures, relaxing on a beautiful beach, diving deep into history and culture, exploring nature, or perhaps a lovely mix of everything?"
+      },
+      {
+        "role": "user",
+        "text": "Beach & relaxation"
+      },
+      {
+        "role": "model",
+        "text": "That sounds absolutely wonderful! Tunisia's beaches are truly a slice of paradise.\n\nNext, could you tell me who you'll be traveling with? Are you planning a solo adventure, a romantic getaway for a couple, a fun family trip with kids, or exploring with friends?"
+      },
+      {
+        "role": "user",
+        "text": "family"
+      },
+      {
+        "role": "model",
+        "text": "Fantastic! Tunisia is a wonderful destination for families, with lots of activities for all ages.\n\nHow long are you planning for your trip? Is it a quick getaway for a few days, a week-long escape, or perhaps even longer?"
+      },
+      {
+        "role": "user",
+        "text": "few days"
+      },
+      {
+        "role": "model",
+        "text": "A few days, got it! We can certainly make those days memorable and relaxing for your family.\n\nTo help me narrow down the best spots, could you give me an idea of your budget level? Are you looking for something budget-friendly, a comfortable mid-range experience, or a luxurious escape?"
+      },
+      {
+        "role": "user",
+        "text": "mid-range"
+      },
+      {
+        "role": "model",
+        "text": "Excellent, a comfortable mid-range trip for your family, focusing on beach and relaxation for a few days – I have some perfect ideas for you!\n\n---\n Your Personalized Tunisia Itinerary\n\nBased on what you've shared, here are your 2 perfect picks:\n\n1. Djerba Island — South-East\n Why it's perfect for you: Djerba is wonderfully laid-back and truly feels like an escape. Its beautiful white sandy beaches are ideal for families to relax, and the island offers a gentle pace for a few days of unwinding. It's a diverse island with a unique charm.\n Top things to do: Explore the unique El Ghriba Synagogue, wander through the bustling Houmt Souk market for souvenirs, visit the traditional Guellala pottery village, and spend quality time on the soft sands of Sidi Mahrez Beach.\n Insider tip: Rent a bicycle — the island is flat and cycling between villages is the best way to explore it authentically and discover hidden spots.\n Menzel\n\n2. Hammamet — North-East / Cap Bon\n Why it's perfect for you: Hammamet is a lively and very family-friendly beach destination. It has long, lovely beaches perfect for kids, and a well-developed tourist infrastructure with plenty of dining and activity options that fit a mid-range budget. It's also very convenient for a shorter trip.\n Top things to do: Stroll through the charming old medina and its kasbah, visit the modern Yasmine Hammamet marina, enjoy the family fun at Carthage Land water park, or even take a short day trip to a Cap Bon winery if time allows.\n Insider tip: Stay in the old Hammamet area (not Yasmine) for a more authentic feel — the medina there is genuine and walkable and has a wonderful atmosphere.\n Brik\n\n Suggested order: Both Djerba and Hammamet are great on their own for a few days, so choose whichever one feels like the perfect fit for your family's relaxation!\n\nWhich one speaks to you more — Djerba Island or Hammamet?"
+      },
+      {
+        "role": "user",
+        "text": "hammamet"
+      },
+      {
+        "role": "model",
+        "text": "Hammamet is a fantastic choice for a family looking for beach and relaxation! You'll love its vibrant atmosphere and beautiful shores.\n\nThat's it — your personalized Tunisian adventure is ready! I'll be here with you every step of the way, so if you ever want to ask something, adjust your plan, or discover hidden gems, just call me and we'll make your journey even more unforgettable."
+      }
+    ],
+    "yasmine_prefs": {
+      "style": "beach",
+      "companions": "family",
+      "budget": "mid-range",
+      "duration_days": 7,
+      "interests": []
+    },
+    "yasmine_recommendations_given": true,
+    "yasmine_recommended_places": [
+      "Djerba Island",
+      "Hammamet"
+    ],
+    "yasmine_chosen_place": "Hammamet",
+    "yasmine_partners_shown": true,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "qa_history": [
+      {
+        "role": "user",
+        "text": "I need a hint for the Harissa challenge at Polytechnique Sousse."
+      },
+      {
+        "role": "model",
+        "text": "That's a bit outside my expertise — I'm your Tunisia specialist inside Chouchane! While Harissa is a wonderful Tunisian staple and Polytechnique Sousse is in our beautiful country, I can't offer hints for specific challenges there. Ask me anything about this amazing country's travel, culture, or history instead!"
+      }
+    ]
+  },
+  "d0752741-4bd2-4a67-9ab3-40d0540435d4": {
+    "session_id": "d0752741-4bd2-4a67-9ab3-40d0540435d4",
+    "workflow": "chouchane",
+    "yasmine_done": true,
+    "quiz_done": false,
+    "quiz_started": false,
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ah, marhaba! So wonderful to connect with you. I'm Yasmine, and I'm absolutely thrilled to help you discover the magic of Tunisia.\n\nTo start, I'd love to know what kind of adventure you're dreaming of. Are you looking for thrilling adventures, pure beach relaxation, a deep dive into history and culture, exploring nature, or maybe a mix of everything?"
+      },
+      {
+        "role": "user",
+        "text": "Beach & relaxation"
+      },
+      {
+        "role": "model",
+        "text": "Lovely! Tunisia has some absolutely stunning beaches perfect for unwinding.\n\nNext, could you tell me who you'll be traveling with? Are you planning a solo trip, a romantic getaway for a couple, a family vacation with kids, or an adventure with friends?"
+      },
+      {
+        "role": "user",
+        "text": "family"
+      },
+      {
+        "role": "model",
+        "text": "Perfect, a family trip! That's wonderful. Tunisia is very family-friendly, especially our coastal areas.\n\nHow long are you planning to visit? Just a few days, a week, or perhaps even longer?"
+      },
+      {
+        "role": "user",
+        "text": "few days"
+      },
+      {
+        "role": "model",
+        "text": "A few days, got it. We can definitely create some beautiful memories even in a short timeframe.\n\nTo make sure I'm recommending the best fit, could you tell me a little about your preferred budget level? Are you looking for something budget-friendly, a comfortable mid-range experience, or more of a luxurious escape?"
+      },
+      {
+        "role": "user",
+        "text": "mid-range"
+      },
+      {
+        "role": "model",
+        "text": "Wonderful, mid-range is perfect – it gives us so many fantastic options without compromising on comfort.\n\nAlright, I think I have a good picture of what you're looking for! A relaxing beach getaway with your family for a few days, all within a comfortable mid-range budget.\n\nBased on everything you've shared, here are two delightful spots in Tunisia that I think you and your family would absolutely love:\n\n---\n Your Personalized Tunisia Itinerary\n\nBased on what you've shared, here are your 2 perfect picks:\n\n1. Hammamet — North-East / Cap Bon\n Why it's perfect for you: Hammamet is wonderfully family-friendly, known for its long, beautiful sandy beaches perfect for relaxation. It offers a lively atmosphere with plenty of activities for kids, including water parks, making it ideal for a fun, mid-range family beach trip of a few days. The convenience of its location also means less travel time.\n Top things to do: Explore the charming old medina and its kasbah, spend a day at Yasmine Hammamet marina, let the kids enjoy Carthage Land water park, or simply relax on the beach.\n Insider tip: For a truly authentic experience, try to stay in the old Hammamet area rather than Yasmine. The medina there has a wonderful, genuine feel and is easy to walk around.\n Brik — This is Tunisia's famous crispy pastry filled with egg and tuna. You must try it at a medina cafe!\n\n2. Djerba Island — South-East\n Why it's perfect for you: Djerba offers a more laid-back and unique beach experience. As Tunisia's largest island, it boasts stunning white sandy beaches and a very relaxed vibe, perfect for unwinding with the family. Its diverse culture, from Jewish heritage to Berber traditions, adds an enriching layer to your relaxation. It's a sunny and peaceful escape.\n Top things to do: Visit the ancient El Ghriba Synagogue, wander through the bustling Houmt Souk market, see pottery being made in Guellala village, or simply enjoy the beautiful Beach at Sidi Mahrez.\n Insider tip: The island is quite flat, so renting a bicycle is a fantastic and authentic way to explore the charming villages and coastal paths with your family.\n Menzel (منزل) — This word means 'home'. Many Tunisians feel Djerba is like a second home, and I think you'll feel that warm, welcoming spirit too.\n\n Suggested order: If you choose to visit both, Hammamet is easier to access from Tunis airport, and then you could take a domestic flight down to Djerba for a different island experience. However, for just a few days, I would recommend picking one to truly enjoy it.\n\nWhich one speaks to you more — Hammamet or Djerba Island?"
+      },
+      {
+        "role": "user",
+        "text": "hammamet"
+      },
+      {
+        "role": "model",
+        "text": "Wonderful choice! Hammamet is absolutely delightful, especially for a family looking for relaxation and fun by the beach. I'm so glad we found the perfect spot for you.\n\nThat's it — your personalized Tunisian adventure is ready! I'll be here with you every step of the way, so if you ever want to ask something, adjust your plan, or discover hidden gems, just call me and we'll make your journey even more unforgettable."
+      }
+    ],
+    "yasmine_prefs": {
+      "style": "beach",
+      "companions": "family",
+      "budget": "mid-range",
+      "duration_days": 7,
+      "interests": [
+        "beach",
+        "relaxation"
+      ]
+    },
+    "yasmine_recommendations_given": true,
+    "yasmine_recommended_places": [
+      "Djerba Island",
+      "Hammamet"
+    ],
+    "yasmine_chosen_place": "Hammamet",
+    "yasmine_partners_shown": true,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "qa_history": [
+      {
+        "role": "user",
+        "text": "I need a hint for the Harissa challenge at Sousse."
+      },
+      {
+        "role": "model",
+        "text": "Ah, the Harissa challenge in Sousse! To truly conquer it, think about the vibrant soul of Harissa itself. It's not just about the heat, but also the sun-dried peppers, garlic, and rich olive oil that give it its unique, complex flavor profile. Perhaps considering the perfect balance of these elements will guide your way!"
+      },
+      {
+        "role": "user",
+        "text": "I need a hint for the Harissa challenge at Sousse."
+      },
+      {
+        "role": "model",
+        "text": "Ah, seeking another glimmer of insight for the Harissa challenge in Sousse! Beyond the vibrant ingredients, remember that the true soul of Harissa often lies in the mastery of its preparation. Consider the texture and consistency, and how the flavors are carefully melded to create that iconic Tunisian paste. Sometimes, the secret is in the gentle rhythm of tradition!"
+      }
+    ]
+  },
+  "c341eb72-6325-4cd4-a685-6c6784409e17": {
+    "session_id": "c341eb72-6325-4cd4-a685-6c6784409e17",
+    "workflow": "chouchane",
+    "yasmine_done": false,
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! Welcome! I'm Yasmine, your guide to discovering the magic of Tunisia. I'm so excited to help you plan your perfect trip.\n\nTo get started, could you tell me a little bit about what kind of experience you'd love to have? Are you dreaming of adventure, relaxing on a beautiful beach, diving deep into history and culture, exploring nature, or perhaps a mix of everything?"
+      },
+      {
+        "role": "user",
+        "text": "what is hariisa"
+      },
+      {
+        "role": "model",
+        "text": "Ah, harissa! It's a very famous and essential part of Tunisian cuisine, a true staple in nearly every household. Harissa is a fiery red chili paste made from sun-dried chili peppers, garlic, olive oil, and spices like caraway and coriander. We use it to add a wonderful kick to almost everything – stews, sandwiches, even just dipping bread in it with some olive oil. It's absolutely delicious and full of flavor!\n\nNow, back to your trip planning! Who will you be traveling with on this adventure? Are you flying solo, coming with a partner, bringing the whole family, or perhaps traveling with friends?"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "qa_history": []
+  },
+  "e02bad92-c5b6-41be-917c-3ec1767946b3": {
+    "session_id": "e02bad92-c5b6-41be-917c-3ec1767946b3",
+    "workflow": "chouchane",
+    "yasmine_done": true,
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan! I'm Yasmine, and I'm so excited to help you plan your adventure in Tunisia. To get started, what kind of experience are you hoping for? Are you dreaming of adventure, relaxing on the beach, diving deep into history and culture, exploring nature, or maybe a mix of everything?"
+      },
+      {
+        "role": "user",
+        "text": "Beach & relaxation"
+      },
+      {
+        "role": "model",
+        "text": "Wonderful! Tunisia has some truly stunning beaches perfect for relaxation.\n\nNext, could you tell me who you'll be traveling with? Are you planning a solo trip, a romantic getaway for a couple, a family vacation with kids, or an adventure with friends?"
+      },
+      {
+        "role": "user",
+        "text": "family"
+      },
+      {
+        "role": "model",
+        "text": "Lovely! Tunisia is very family-friendly.\n\nAnd how long are you thinking of staying? A few days, a week, or perhaps even longer?"
+      },
+      {
+        "role": "user",
+        "text": "a few days"
+      },
+      {
+        "role": "model",
+        "text": "A few days, perfect for a relaxing family escape!\n\nTo help me narrow down the best options for you, could you tell me a bit about your budget? Are you looking for something budget-friendly, a comfortable mid-range experience, or more of a luxury stay?"
+      },
+      {
+        "role": "user",
+        "text": "mid-range"
+      },
+      {
+        "role": "model",
+        "text": "Excellent! A mid-range budget gives us lots of wonderful options.\n\nBased on your desire for beach relaxation, a family trip, a few days' stay, and a mid-range budget, I have two fantastic recommendations for you.\n\n---\n Your Personalized Tunisia Itinerary\n\nBased on what you've shared, here are your 2 perfect picks:\n\n1. Hammamet — North-East / Cap Bon\n Why it's perfect for you: Hammamet is a lively and very family-friendly destination, famous for its long, beautiful sandy beaches and clear waters. It offers plenty of activities for all ages, including water parks, making it ideal for a relaxing yet fun family getaway on a mid-range budget.\n Top things to do: Explore the charming old medina and its kasbah, enjoy the modern Yasmine Hammamet marina, let the kids have fun at Carthage Land water park, or simply relax on the beach.\n Insider tip: For a truly authentic Tunisian experience, try to stay in the older Hammamet area rather than Yasmine Hammamet. The medina there is genuine and wonderful for a stroll.\n Brik (بريك)\n\n2. Djerba Island — South-East\n Why it's perfect for you: Djerba offers a more laid-back and unique island experience, perfect for families seeking relaxation on beautiful white sandy beaches. It has a lovely mix of cultural sites and a very welcoming atmosphere, feeling like a second home. The flat terrain is also great for easy family exploration.\n Top things to do: Visit the ancient El Ghriba Synagogue, wander through the bustling Houmt Souk market, discover traditional pottery in Guellala village, or simply unwind on the serene beach at Sidi Mahrez.\n Insider tip: Renting bicycles is a fantastic way to see the island. It's flat and safe, allowing you and your family to discover hidden corners and local life at your own pace.\n Menzel (منزل)\n\n Suggested order: For a few days, it would be best to choose one of these wonderful destinations to fully enjoy what it has to offer without rushing.\n\n---\n\nI hope these sound exciting! Which one speaks to you more — Hammamet or Djerba? Or perhaps you have some follow-up questions about either?"
+      },
+      {
+        "role": "user",
+        "text": "hammamet"
+      },
+      {
+        "role": "model",
+        "text": "Ah, Hammamet! A wonderful choice for a family beach escape. Its lively atmosphere and beautiful beaches are truly special, and you'll find plenty to keep everyone happy there.\n\nThat's it — your personalized Tunisian adventure is ready! I'll be here with you every step of the way, so if you ever want to ask something, adjust your plan, or discover hidden gems, just call me and we'll make your journey even more unforgettable."
+      }
+    ],
+    "yasmine_prefs": {
+      "style": "beach",
+      "companions": "family",
+      "budget": "mid-range",
+      "duration_days": 7,
+      "interests": []
+    },
+    "yasmine_recommendations_given": true,
+    "yasmine_recommended_places": [
+      "Djerba Island",
+      "Hammamet"
+    ],
+    "yasmine_chosen_place": "Hammamet",
+    "yasmine_partners_shown": true,
+    "qa_history": [
+      {
+        "role": "user",
+        "text": "give me activites in hammamet i can do"
+      },
+      {
+        "role": "model",
+        "text": "Ah, Hammamet! You're in for a treat with its delightful blend of relaxation and culture.\n\nYou absolutely must soak up the sun on its beautiful sandy beaches, perfect for swimming or enjoying exciting water sports. Wander through the charming old Medina, a labyrinth of narrow streets brimming with artisan shops, and make sure to climb up to the historic Kasbah for breathtaking panoramic views of the bay.\n\nFor a touch of modern fun, head to Yasmine Hammamet, home to a lively marina, the thrilling Carthage Land amusement park, and wonderful restaurants. And for ultimate relaxation, indulge in a rejuvenating thalassotherapy treatment, a true Tunisian specialty!"
+      }
+    ]
+  },
+  "ef12d1ef-d4fd-4f95-919d-9b2148c84b7b": {
+    "session_id": "ef12d1ef-d4fd-4f95-919d-9b2148c84b7b",
+    "workflow": "chouchane",
+    "yasmine_done": false,
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! Welcome! I'm Yasmine, and I'm so excited to help you plan your perfect trip to Tunisia. To get started, I'd love to know what kind of experience you're hoping for. Are you looking for adventure, a relaxing beach getaway, a deep dive into history and culture, or something else entirely?"
+      },
+      {
+        "role": "user",
+        "text": "Beach & relaxation"
+      },
+      {
+        "role": "model",
+        "text": "Perfect! Tunisia has some truly stunning beaches for relaxation. To help me narrow it down even further, are you planning this trip solo, with a partner, with family and kids, or with friends?"
+      },
+      {
+        "role": "user",
+        "text": "family"
+      },
+      {
+        "role": "model",
+        "text": "Wonderful! Tunisia is fantastic for families, with lots of options that everyone can enjoy.\n\nHow long are you thinking of staying? A few days, a week, or perhaps even longer?"
+      },
+      {
+        "role": "user",
+        "text": "few days"
+      },
+      {
+        "role": "model",
+        "text": "A few days, got it! That's a great start.\n\nTo help me find the absolute best fit for your family, could you tell me a bit about your budget? Are you looking for something budget-friendly, a comfortable mid-range experience, or perhaps a bit of luxury?"
+      },
+      {
+        "role": "user",
+        "text": "mid-range"
+      },
+      {
+        "role": "model",
+        "text": "Mid-range, perfect! That gives us a clear picture.\n\nThank you so much for sharing all this with me. I have a really good idea now of what you're looking for, and I'm ready to craft some personalized recommendations for your family's relaxing beach getaway.\n\nJust a moment while I pull up the best options for you!"
+      }
+    ],
+    "yasmine_prefs": {
+      "style": "beach",
+      "companions": "family",
+      "budget": "mid-range",
+      "duration_days": 7,
+      "interests": []
+    },
+    "yasmine_recommendations_given": true,
+    "yasmine_recommended_places": [
+      "Djerba Island",
+      "Hammamet"
+    ],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "qa_history": []
+  },
+  "97cacc40-2618-4982-8661-10226714ab73": {
+    "session_id": "97cacc40-2618-4982-8661-10226714ab73",
+    "workflow": "chouchane",
+    "yasmine_done": false,
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! I'm Yasmine, and I'm so excited to help you plan your perfect trip to Tunisia. To start, what kind of experience are you hoping for? Are you dreaming of adventure, relaxing on a beautiful beach, diving deep into history and culture, exploring nature, or maybe a bit of everything?"
+      },
+      {
+        "role": "user",
+        "text": "Beach & relaxation"
+      },
+      {
+        "role": "model",
+        "text": "Wonderful! Tunisia has some absolutely stunning beaches.\n\nNext, who will you be traveling with? Are you planning a solo adventure, a romantic getaway for two, a family trip with kids, or a fun escape with friends?"
+      },
+      {
+        "role": "user",
+        "text": "family"
+      },
+      {
+        "role": "model",
+        "text": "Perfect! Tunisia is fantastic for families, with lots of activities for everyone.\n\nTo help me narrow down the best spots, how long are you thinking of staying? A few days, a week, or maybe longer?"
+      },
+      {
+        "role": "user",
+        "text": "few days"
+      },
+      {
+        "role": "model",
+        "text": "A few days, got it!\n\nNow, when it comes to your budget, are you looking for something budget-friendly, mid-range, or a luxurious escape?"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "qa_history": []
+  },
+  "8878fef8-2364-4782-a3f5-c0f2ef372900": {
+    "session_id": "8878fef8-2364-4782-a3f5-c0f2ef372900",
+    "workflow": "chouchane",
+    "yasmine_done": true,
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! Welcome to Tunisia! I'm Yasmine, and I'm so excited to help you plan an amazing trip.\n\nTo start, what kind of experience are you hoping for? Are you dreaming of adventure, relaxing on a beautiful beach, diving into history and culture, exploring nature, or maybe a mix of everything?"
+      },
+      {
+        "role": "user",
+        "text": "Beach & relaxation"
+      },
+      {
+        "role": "model",
+        "text": "Wonderful! Tunisia has some truly stunning beaches perfect for relaxation.\n\nNext, who will you be traveling with? Are you planning a solo trip, a romantic getaway for a couple, a family adventure with kids, or a fun escape with friends?"
+      },
+      {
+        "role": "user",
+        "text": "family"
+      },
+      {
+        "role": "model",
+        "text": "Fantastic! Tunisia is wonderful for families, especially with our beautiful beaches.\n\nHow long are you thinking of staying? A few days, a week, or perhaps even longer?"
+      },
+      {
+        "role": "user",
+        "text": "few days"
+      },
+      {
+        "role": "model",
+        "text": "A few days, got it. That's enough time to really soak in some sun and fun.\n\nNow, let's talk about your budget. Are you looking for something budget-friendly, a comfortable mid-range experience, or more of a luxury escape for your family?"
+      },
+      {
+        "role": "user",
+        "text": "mid-range"
+      },
+      {
+        "role": "model",
+        "text": "Ah, a mid-range family trip for a few days with beach and relaxation in mind – I can picture it perfectly!\n\nBased on everything you've told me, I have two wonderful suggestions that I think your family will absolutely love. Both offer beautiful beaches and a relaxed atmosphere perfect for unwinding.\n\n---\n Your Personalized Tunisia Itinerary\n\nBased on what you've shared, here are your 2 perfect picks:\n\n1. Monastir Medina — Central / Monastir\n Why it's perfect for you: This charming coastal city blends a bit of history with fantastic sandy beaches, making it ideal for a family looking for relaxation with a touch of exploration. The main historical site, the Ribat, feels like a real-life castle that kids often love to discover!\n Top things to do: Spend quality time on the sandy beach, explore the ancient Monastir Ribat and climb its towers for amazing views, and enjoy a stroll around the marina with local cafes.\n Insider tip: Head to the Ribat early in the morning to beat the crowds and enjoy the cooler temperatures, then you'll have the rest of the day for a relaxed beach experience.\n Ribat (رباط)\n\n2. Djerba Island — South-East\n Why it's perfect for you: Djerba is Tunisia's largest island and truly embodies a laid-back, sunny vibe. It's famous for its pristine white sandy beaches and a gentle pace of life, making it a dream for families seeking pure relaxation. It feels very welcoming, like a second home.\n Top things to do: Relax and play on the beautiful beaches like Sidi Mahrez, explore the vibrant Houmt Souk market for unique souvenirs, and discover the traditional pottery village of Guellala.\n Insider tip: The island is quite flat, so if your family enjoys gentle cycling, renting bicycles can be a wonderfully authentic and fun way to explore the charming villages and scenery.\n Menzel (منزل)\n\n Suggested order: Given that you have a few days, I would recommend focusing on one of these destinations to truly soak in the relaxation and avoid feeling rushed. Both offer plenty to enjoy for a mid-range family trip!\n---\n\nWhat do you think of these? Which one speaks to you more — Monastir Medina or Djerba Island?"
+      },
+      {
+        "role": "user",
+        "text": "monastir"
+      },
+      {
+        "role": "model",
+        "text": "Ah, Monastir! That's a wonderful choice for a family looking for a mix of beach relaxation and a little bit of history. I think you'll all have a fantastic time exploring the Ribat and enjoying the beautiful coastline there.\n\nThat's it — your personalized Tunisian adventure is ready! I'll be here with you every step of the way, so if you ever want to ask something, adjust your plan, or discover hidden gems, just call me and we'll make your journey even more unforgettable."
+      }
+    ],
+    "yasmine_prefs": {
+      "style": "beach",
+      "companions": "family",
+      "budget": "mid-range",
+      "duration_days": 3,
+      "interests": []
+    },
+    "yasmine_recommendations_given": true,
+    "yasmine_recommended_places": [
+      "Monastir Medina",
+      "Djerba Island"
+    ],
+    "yasmine_chosen_place": "Monastir Medina",
+    "yasmine_partners_shown": true,
+    "qa_history": [
+      {
+        "role": "user",
+        "text": "what is harissa"
+      },
+      {
+        "role": "model",
+        "text": "Ah, harissa! It is the very soul and fiery heart of Tunisian cuisine! Harissa is a vibrant, aromatic chili paste made primarily from sun-dried or roasted red peppers, garlic, olive oil, and a unique blend of spices such as caraway, coriander, and sometimes cumin. This versatile and essential condiment is served with almost every meal, adding its distinctive smoky heat and rich flavor to stews, couscous, sandwiches, and even breakfast eggs. It's a taste you'll find absolutely unforgettable!"
+      }
+    ]
+  },
+  "a8b06cf0-b992-4153-81a8-dbb36d24c249": {
+    "session_id": "a8b06cf0-b992-4153-81a8-dbb36d24c249",
+    "workflow": "chouchane",
+    "yasmine_done": true,
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! I'm Yasmine, and I'm so excited to help you plan your perfect trip to Tunisia. To start, what kind of experience are you hoping for? Are you dreaming of adventure, relaxing on a beautiful beach, diving deep into history and culture, exploring nature, or maybe a mix of everything?"
+      },
+      {
+        "role": "user",
+        "text": "Beach & relaxation"
+      },
+      {
+        "role": "model",
+        "text": "Perfect! Tunisia has some truly stunning beaches for relaxation.\n\nWho will you be traveling with? Are you going solo, with a partner, bringing the whole family with kids, or perhaps a group of friends?"
+      },
+      {
+        "role": "user",
+        "text": "family"
+      },
+      {
+        "role": "model",
+        "text": "Wonderful! Tunisia is fantastic for families, especially with our beautiful coastlines.\n\nHow long are you planning to visit? Are you thinking of a few days, a week, or perhaps even longer?"
+      },
+      {
+        "role": "user",
+        "text": "few days"
+      },
+      {
+        "role": "model",
+        "text": "A few days, got it. That's enough time to soak up some sun and enjoy the atmosphere!\n\nNow, let's talk about your budget. Are you looking for something budget-friendly, a comfortable mid-range experience, or more of a luxury escape for your family?"
+      },
+      {
+        "role": "user",
+        "text": "mid-range"
+      },
+      {
+        "role": "model",
+        "text": "That's perfect, a mid-range budget gives us lots of wonderful options!\n\nJust one more quick question to help me narrow down the best spot for your family: are there any specific interests you have? For example, are you keen on delicious food, photography, exploring ancient ruins, maybe something to do with the desert, or anything else that really excites you?"
+      },
+      {
+        "role": "user",
+        "text": "i want some desert"
+      },
+      {
+        "role": "model",
+        "text": "Ah, the desert! It's truly magical here in Tunisia. For a few days, focusing on beach and relaxation with your family, it can be a little challenging to fit in a full Sahara desert experience, as that often requires a bit more travel time to get deep into it.\n\nHowever, based on your desire for beaches, relaxation, a mid-range budget, and traveling with family, I have two wonderful options that truly shine for families seeking beautiful coastlines. While they don't offer the deep Sahara, one is in the south, giving you a taste of that southern Tunisian atmosphere.\n\n---\n Your Personalized Tunisia Itinerary\n\nBased on what you've shared, here are your 2 perfect picks:\n\n1. Djerba Island — South-East\n Why it's perfect for you: Djerba is Tunisia's largest island, known for its incredibly relaxed vibe and beautiful white sandy beaches, making it ideal for family relaxation. It has a unique mix of cultures and lovely calm waters.\n Top things to do: Enjoy the beaches at Sidi Mahrez, explore the vibrant Houmt Souk market, or visit the historic El Ghriba Synagogue.\n Insider tip: Renting a bicycle is a fantastic way to explore the island with your family; it's very flat and easy to navigate between charming villages.\n Menzel\n\n2. Hammamet — North-East / Cap Bon\n Why it's perfect for you: Hammamet is a very popular and developed beach destination, especially great for families. It offers long, sandy beaches, water parks for the kids, and a lively atmosphere with plenty of restaurants.\n Top things to do: Wander through the charming old medina and its kasbah, visit the Yasmine Hammamet marina, or enjoy a day at Carthage Land water park.\n Insider tip: For a more authentic experience, try to stay in the old Hammamet area rather than Yasmine Hammamet – the medina there is genuinely historic and great for a family stroll.\n Brik\n\n Suggested order: As you only have a few days, I would recommend picking just one of these to truly relax and enjoy without rushing. Both offer excellent family beach experiences.\n---\n\nWhich one speaks to you more — Djerba Island or Hammamet?"
+      },
+      {
+        "role": "user",
+        "text": "hammamet"
+      },
+      {
+        "role": "model",
+        "text": "Excellent choice! Hammamet is a wonderful place for a family beach getaway. You'll love the lively atmosphere and beautiful shores.\n\nThat's it — your personalized Tunisian adventure is ready! I'll be here with you every step of the way, so if you ever want to ask something, adjust your plan, or discover hidden gems, just call me and we'll make your journey even more unforgettable."
+      }
+    ],
+    "yasmine_prefs": {
+      "style": "beach",
+      "companions": "family",
+      "budget": "mid-range",
+      "duration_days": 7,
+      "interests": []
+    },
+    "yasmine_recommendations_given": true,
+    "yasmine_recommended_places": [
+      "Djerba Island",
+      "Hammamet"
+    ],
+    "yasmine_chosen_place": "Hammamet",
+    "yasmine_partners_shown": true,
+    "qa_history": []
+  },
+  "76ee8410-9e9c-473c-a154-28d80ca8f12f": {
+    "session_id": "76ee8410-9e9c-473c-a154-28d80ca8f12f",
+    "workflow": "chouchane",
+    "yasmine_done": false,
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! Welcome! I'm Yasmine, your guide to discovering the wonders of Tunisia. I'm so excited to help you plan your perfect trip.\n\nTo start, could you tell me a little about your travel style? Are you looking for adventure, a relaxing beach getaway, a dive into history and culture, or perhaps a mix of everything?"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "qa_history": []
+  },
+  "784dd715-c282-4678-be2f-f1d0b5f35b42": {
+    "session_id": "784dd715-c282-4678-be2f-f1d0b5f35b42",
+    "workflow": "chouchane",
+    "yasmine_done": true,
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! Welcome! I'm Yasmine, your guide to discovering the magic of Tunisia. I'm so excited to help you plan your perfect trip.\n\nTo get started, could you tell me a little about your ideal travel style? Are you dreaming of adventure, soaking up the sun on a beautiful beach, diving deep into history and culture, exploring nature, or perhaps a bit of everything?"
+      },
+      {
+        "role": "user",
+        "text": "Beach & relaxation"
+      },
+      {
+        "role": "model",
+        "text": "That sounds wonderful! Tunisia has some truly stunning coastlines perfect for relaxation.\n\nNext, could you tell me who you'll be traveling with? Are you planning a solo escape, a romantic getaway for two, a family adventure with kids, or a fun trip with friends?"
+      },
+      {
+        "role": "user",
+        "text": "family"
+      },
+      {
+        "role": "model",
+        "text": "Perfect, a family trip! That's lovely. We have many family-friendly spots.\n\nHow long are you planning for your Tunisian adventure? Is it a quick getaway for a few days, a leisurely week, or perhaps even longer?"
+      },
+      {
+        "role": "user",
+        "text": "few days"
+      },
+      {
+        "role": "model",
+        "text": "A few days, got it. That helps me narrow things down!\n\nNow, to make sure I find the best fit for your family, what kind of budget are you thinking about for this trip? Are you looking for something budget-friendly, mid-range comfort, or a luxurious escape?"
+      },
+      {
+        "role": "user",
+        "text": "mid-range"
+      },
+      {
+        "role": "model",
+        "text": "Wonderful, mid-range is very flexible! That gives us some great options.\n\nJust one more thing to help me fine-tune your recommendations: beyond the beach and relaxation, are there any other special interests your family might enjoy? Perhaps some local food experiences, water activities, or maybe a bit of history or local crafts that might appeal to the kids?"
+      },
+      {
+        "role": "user",
+        "text": "a bit of history"
+      },
+      {
+        "role": "model",
+        "text": "That's a wonderful combination for a family trip! Beautiful beaches, a chance to relax, and a touch of history for everyone to enjoy.\n\nBased on everything you've told me – a mid-range family trip for a few days, focusing on beach and relaxation with a hint of history – I have two fantastic suggestions for you. Both are perfect for families and offer that lovely blend you're looking for.\n\n---\n Your Personalized Tunisia Itinerary\n\nBased on what you've shared, here are your 2 perfect picks:\n\n1. Djerba Island — South-East\n Why it's perfect for you: Djerba is known for its incredibly relaxed atmosphere, beautiful white sandy beaches perfect for families, and a lovely mix of cultures and history. Your family can enjoy the calm waters, explore charming villages, and find some unique historical sites.\n Top things to do: Visit the ancient El Ghriba Synagogue, wander through the lively Houmt Souk market, discover traditional pottery in Guellala village, and simply relax on the stunning beach at Sidi Mahrez.\n Insider tip: The island is quite flat, so renting bicycles is a fantastic and authentic way to explore the villages and coastal paths with your family, feeling the gentle sea breeze.\n Menzel (منزل)\n\n2. Hammamet — North-East / Cap Bon\n Why it's perfect for you: Hammamet is a very family-friendly destination with long, inviting sandy beaches and plenty of activities to keep everyone entertained. It offers a great balance of relaxation, a lively atmosphere, and a glimpse into Tunisia's past with its charming old medina.\n Top things to do: Explore the historic old medina and kasbah, enjoy the modern Yasmine Hammamet marina, have fun at Carthage Land water park if the kids want an extra splash, and, of course, spend quality time on the beautiful beaches.\n Insider tip: For a more authentic experience, try to stay in the original Hammamet area, near the old medina, rather than the newer Yasmine Hammamet. The medina is genuinely lovely for an evening stroll.\n Brik (بريك)\n\n Suggested order: Since you only have a few days and these locations are in different parts of Tunisia, I would highly recommend choosing just one for this trip to truly relax and enjoy it without rushing. Both offer a full experience for a short family getaway.\n\n---\n\nDo either of these places spark your imagination for your family's Tunisian adventure? I'm happy to tell you more or answer any questions you have!"
+      },
+      {
+        "role": "user",
+        "text": "hammamet"
+      },
+      {
+        "role": "model",
+        "text": "Wonderful choice! Hammamet is a fantastic spot for a family trip with its beautiful beaches and charming old medina. You'll have a delightful time relaxing and exploring there.\n\nThat's it — your personalized Tunisian adventure is ready! I'll be here with you every step of the way, so if you ever want to ask something, adjust your plan, or discover hidden gems, just call me and we'll make your journey even more unforgettable."
+      }
+    ],
+    "yasmine_prefs": {
+      "style": "beach",
+      "companions": "family",
+      "budget": "mid-range",
+      "duration_days": 7,
+      "interests": []
+    },
+    "yasmine_recommendations_given": true,
+    "yasmine_recommended_places": [
+      "Djerba Island",
+      "Hammamet"
+    ],
+    "yasmine_chosen_place": "Hammamet",
+    "yasmine_partners_shown": true,
+    "qa_history": []
+  },
+  "c45b3dda-c1bc-4037-aeca-761093011b0f": {
+    "session_id": "c45b3dda-c1bc-4037-aeca-761093011b0f",
+    "workflow": "chouchane",
+    "yasmine_done": false,
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan! I'm Yasmine, and I'm so excited to help you plan your adventure here in Tunisia. To get started, what kind of experience are you hoping for? Are you dreaming of adventure, a relaxing beach getaway, diving deep into history and culture, exploring nature, or maybe a little bit of everything?"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "qa_history": []
+  },
+  "978a9e28-4adc-4e96-a4bd-c90ec269875f": {
+    "session_id": "978a9e28-4adc-4e96-a4bd-c90ec269875f",
+    "workflow": "chouchane",
+    "yasmine_done": false,
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ah, marhaba! I'm Yasmine, and I'm so excited to help you plan your perfect trip to Tunisia. To start, what kind of experience are you hoping for? Are you dreaming of adventure, relaxing on a beautiful beach, diving deep into history and culture, exploring nature, or perhaps a bit of everything?"
+      },
+      {
+        "role": "user",
+        "text": "Beach & relaxation"
+      },
+      {
+        "role": "model",
+        "text": "Wonderful! Tunisia has some truly stunning beaches perfect for relaxation.\n\nWho will you be traveling with? Are you planning a solo adventure, a romantic getaway for two, a family holiday with kids, or a fun trip with friends?"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "qa_history": []
+  },
+  "e5bb6f1e-b74f-4087-b26a-4b27f23fb973": {
+    "session_id": "e5bb6f1e-b74f-4087-b26a-4b27f23fb973",
+    "workflow": "chouchane",
+    "yasmine_done": true,
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! I'm Yasmine, and I'm so excited to help you plan your perfect trip to Tunisia. To start, what kind of experience are you hoping for? Are you dreaming of adventure, relaxing on a beautiful beach, diving deep into history and culture, exploring nature, or maybe a bit of everything?"
+      },
+      {
+        "role": "user",
+        "text": "Beach & relaxation"
+      },
+      {
+        "role": "model",
+        "text": "That sounds absolutely wonderful! Tunisia has some truly stunning beaches.\n\nNext, could you tell me who you'll be traveling with? Is it a solo adventure, a romantic getaway for a couple, a fun trip with family and kids, or an exciting journey with friends?"
+      },
+      {
+        "role": "user",
+        "text": "couple"
+      },
+      {
+        "role": "model",
+        "text": "Lovely! A romantic escape on our beautiful coast sounds perfect.\n\nAnd how long are you planning for your Tunisian adventure? A few days, a week, or perhaps a bit longer?"
+      },
+      {
+        "role": "user",
+        "text": "few days"
+      },
+      {
+        "role": "model",
+        "text": "A few days, got it! That's enough time to really unwind and soak up the sun.\n\nTo help me narrow down the best spots for you, what's your general budget level? Are you looking for something budget-friendly, mid-range comfort, or a luxurious escape?"
+      },
+      {
+        "role": "user",
+        "text": "comfort budget"
+      },
+      {
+        "role": "model",
+        "text": "Perfect, a comfort budget allows for some lovely choices! You've given me a great picture of what you're looking for: beach and relaxation for a couple, for a few days, with a comfort budget.\n\nBased on all of this, I have two wonderful suggestions for you:\n\n---\n Your Personalized Tunisia Itinerary\n\nBased on what you've shared, here are your 2 perfect picks:\n\n1. Djerba Island — South-East\n Why it's perfect for you: Djerba offers a truly laid-back atmosphere with stunning white sandy beaches, ideal for a relaxing escape for a couple. You'll find a unique blend of cultures, delicious fresh seafood, and plenty of opportunities to simply unwind and soak up the sun. It's perfect for a few days to de-stress.\n Top things to do: Explore the charming Houmt Souk market, visit the beautiful El Ghriba Synagogue, discover the pottery traditions in Guellala village, and, of course, spend quality time on the beautiful Sidi Mahrez beach.\n Insider tip: Rent a bicycle! The island is wonderfully flat, and cycling between the villages is such an authentic and relaxed way to discover its hidden charms and local life.\n Menzel\n\n2. Hammamet — North-East / Cap Bon\n Why it's perfect for you: Hammamet is a lively yet relaxing beach destination, offering long sandy shores and a charming old medina that's lovely for couples. It's convenient for a shorter trip, with plenty of good dining options and comfortable hotels within your budget, providing a mix of relaxation and local flavor.\n Top things to do: Stroll through the historic medina and its kasbah, enjoy the beautiful beaches, explore the lively Yasmine Hammamet marina, and perhaps even indulge in a day trip to a Cap Bon winery.\n Insider tip: For a more authentic experience, try to stay in the older Hammamet area, not the newer Yasmine Hammamet. The medina here is genuine and offers a wonderful atmosphere for evening walks and dining.\n Brik\n\n Suggested order: Both Djerba and Hammamet are excellent choices for a few days of relaxation. They are in different regions of Tunisia, so for a shorter trip, picking one will allow you to fully enjoy its unique vibe without rushing.\n\n---\n\nSo, what do you think of these options? Which one speaks to you more — Djerba Island or Hammamet?"
+      },
+      {
+        "role": "user",
+        "text": "hammamet"
+      },
+      {
+        "role": "model",
+        "text": "Excellent choice! Hammamet is a wonderful place for a couple to enjoy a few relaxing days by the beach, with that touch of authentic Tunisian charm in the medina. You'll love it there.\n\nThat's it — your personalized Tunisian adventure is ready! I'll be here with you every step of the way, so if you ever want to ask something, adjust your plan, or discover hidden gems, just call me and we'll make your journey even more unforgettable."
+      }
+    ],
+    "yasmine_prefs": {
+      "style": "beach",
+      "companions": "couple",
+      "budget": "mid-range",
+      "duration_days": 7,
+      "interests": []
+    },
+    "yasmine_recommendations_given": true,
+    "yasmine_recommended_places": [
+      "Djerba Island",
+      "Hammamet"
+    ],
+    "yasmine_chosen_place": "Hammamet",
+    "yasmine_partners_shown": true,
+    "qa_history": [
+      {
+        "role": "user",
+        "text": "what is harissa"
+      },
+      {
+        "role": "model",
+        "text": "Ah, harissa! It's the vibrant, fiery heart of Tunisian cuisine, a truly iconic condiment. Harissa is a fragrant chili paste made from sun-dried Baklouti peppers, garlic, olive oil, and aromatic spices like caraway, coriander, and often mint. It adds a delicious warmth and depth to almost every dish, served as a condiment alongside meals or incorporated directly into stews, couscous, and sandwiches. It's so much more than just spicy; it's a burst of flavor!"
+      },
+      {
+        "role": "user",
+        "text": "what the most traditional dish in tunisia"
+      },
+      {
+        "role": "model",
+        "text": "Without a doubt, the most traditional and beloved dish in Tunisia is couscous! It's not just food; it's a culinary institution, often considered the national dish. Made from steamed semolina grains, it's typically served with a rich, flavorful stew of vegetables and either lamb, beef, chicken, or fish, varying by region and occasion. Couscous is central to family gatherings and celebrations, embodying the warmth and generosity of Tunisian hospitality."
+      }
+    ]
+  }
+}
