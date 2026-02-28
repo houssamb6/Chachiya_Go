@@ -1,0 +1,29 @@
+{
+  "7e079600-3610-468d-8308-9b4451fa45e5": {
+    "session_id": "7e079600-3610-468d-8308-9b4451fa45e5",
+    "phase": "yasmine",
+    "yasmine_history": [
+      {
+        "role": "user",
+        "text": "The user just said they're ready to start. Greet them warmly as Yasmine and ask your first question."
+      },
+      {
+        "role": "model",
+        "text": "Ahlan wa sahlan! Welcome to Tunisia! I'm Yasmine, and I'm so excited to help you plan your perfect trip. To get started, could you tell me a little bit about what kind of travel experience you're looking for? Are you dreaming of adventure, relaxing on a beautiful beach, diving into history and culture, exploring nature, or maybe a mix of everything?"
+      }
+    ],
+    "yasmine_prefs": {},
+    "yasmine_recommendations_given": false,
+    "yasmine_recommended_places": [],
+    "yasmine_chosen_place": null,
+    "yasmine_partners_shown": false,
+    "destination": "",
+    "question": "",
+    "hints": [],
+    "correct_answer": "",
+    "hints_used": 0,
+    "quiz_score": 0,
+    "quiz_done": false,
+    "qa_history": []
+  }
+}
